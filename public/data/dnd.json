@@ -1,0 +1,1843 @@
+[
+  {
+    "id": "cadnd-001",
+    "imageRef": "cadnd-001_ca000_f01.png",
+    "label": "Pulsus paradoxus",
+    "category": "Physiology & Mechanisms",
+    "brick": "Constrictive Pericarditis"
+  },
+  {
+    "id": "cadnd-002",
+    "imageRef": "cadnd-002_ca000_f02.png",
+    "label": "Pericardiectomy",
+    "category": "Gross Anatomy",
+    "brick": "Constrictive Pericarditis"
+  },
+  {
+    "id": "cadnd-003",
+    "imageRef": "cadnd-003_ca001_f01.png",
+    "label": "Pulmonary edema",
+    "category": "Lab & Diagnostics",
+    "brick": "Hemodynamic Monitoring in Shock"
+  },
+  {
+    "id": "cadnd-004",
+    "imageRef": "cadnd-004_ca001_f02.png",
+    "label": "Pericardium",
+    "category": "Gross Anatomy",
+    "brick": "Hemodynamic Monitoring in Shock"
+  },
+  {
+    "id": "cadnd-005",
+    "imageRef": "cadnd-005_ca001_f03.png",
+    "label": "Electrical alternans",
+    "category": "Lab & Diagnostics",
+    "brick": "Hemodynamic Monitoring in Shock"
+  },
+  {
+    "id": "cadnd-006",
+    "imageRef": "cadnd-006_ca002_f01.png",
+    "label": "Pulmonary edema",
+    "category": "Lab & Diagnostics",
+    "brick": "Hemodynamic Monitoring in Shock"
+  },
+  {
+    "id": "cadnd-007",
+    "imageRef": "cadnd-007_ca003_f02.png",
+    "label": "Electrical alternans",
+    "category": "Lab & Diagnostics",
+    "brick": "Pericardial Effusion and Cardiac Tamponade"
+  },
+  {
+    "id": "cadnd-008",
+    "imageRef": "cadnd-008_ca003_f03.png",
+    "label": "RV diastolic collapse",
+    "category": "Lab & Diagnostics",
+    "brick": "Pericardial Effusion and Cardiac Tamponade"
+  },
+  {
+    "id": "cadnd-009",
+    "imageRef": "cadnd-009_ca003_f04.png",
+    "label": "Pericardiocentesis",
+    "category": "Lab & Diagnostics",
+    "brick": "Pericardial Effusion and Cardiac Tamponade"
+  },
+  {
+    "id": "cadnd-010",
+    "imageRef": "cadnd-010_ca004_f01.png",
+    "label": "Aortic arch",
+    "category": "Gross Anatomy",
+    "brick": "Aortic Arch Anatomy"
+  },
+  {
+    "id": "cadnd-011",
+    "imageRef": "cadnd-011_ca004_f02.png",
+    "label": "Embryo",
+    "category": "Gross Anatomy",
+    "brick": "Aortic Arch Anatomy"
+  },
+  {
+    "id": "cadnd-012",
+    "imageRef": "cadnd-012_ca004_f03.png",
+    "label": "Aortic arch development",
+    "category": "Physiology & Mechanisms",
+    "brick": "Aortic Arch Anatomy"
+  },
+  {
+    "id": "cadnd-013",
+    "imageRef": "cadnd-013_ca006_f01.png",
+    "label": "Aortic coarctation",
+    "category": "Gross Anatomy",
+    "brick": "Obstructive Congenital Heart Defects"
+  },
+  {
+    "id": "cadnd-014",
+    "imageRef": "cadnd-014_ca006_f03.png",
+    "label": "Cyanosis",
+    "category": "Pathology",
+    "brick": "Obstructive Congenital Heart Defects"
+  },
+  {
+    "id": "cadnd-015",
+    "imageRef": "cadnd-015_ca006_f04.png",
+    "label": "Tet spell",
+    "category": "Physiology & Mechanisms",
+    "brick": "Obstructive Congenital Heart Defects"
+  },
+  {
+    "id": "cadnd-016",
+    "imageRef": "cadnd-016_ca007_f01.png",
+    "label": "Differential cyanosis",
+    "category": "Physiology & Mechanisms",
+    "brick": "Acyanotic Congenital Heart Defects"
+  },
+  {
+    "id": "cadnd-017",
+    "imageRef": "cadnd-017_ca007_f02.png",
+    "label": "PDA echocardiography",
+    "category": "Lab & Diagnostics",
+    "brick": "Acyanotic Congenital Heart Defects"
+  },
+  {
+    "id": "cadnd-018",
+    "imageRef": "cadnd-018_ca007_f03.png",
+    "label": "Atrial septal defect",
+    "category": "Physiology & Mechanisms",
+    "brick": "Acyanotic Congenital Heart Defects"
+  },
+  {
+    "id": "cadnd-019",
+    "imageRef": "cadnd-019_ca007_f04.png",
+    "label": "Atrial septation",
+    "category": "Physiology & Mechanisms",
+    "brick": "Acyanotic Congenital Heart Defects"
+  },
+  {
+    "id": "cadnd-020",
+    "imageRef": "cadnd-020_ca007_f06.png",
+    "label": "Interventricular septum",
+    "category": "Physiology & Mechanisms",
+    "brick": "Acyanotic Congenital Heart Defects"
+  },
+  {
+    "id": "cadnd-021",
+    "imageRef": "cadnd-021_ca007_f08.png",
+    "label": "VSD oxygenation",
+    "category": "Physiology & Mechanisms",
+    "brick": "Acyanotic Congenital Heart Defects"
+  },
+  {
+    "id": "cadnd-022",
+    "imageRef": "cadnd-022_ca008_f01.png",
+    "label": "Cyanosis",
+    "category": "Pathology",
+    "brick": "Cyanotic Congenital Heart Defects"
+  },
+  {
+    "id": "cadnd-023",
+    "imageRef": "cadnd-023_ca008_f04.png",
+    "label": "Overriding aorta",
+    "category": "Lab & Diagnostics",
+    "brick": "Cyanotic Congenital Heart Defects"
+  },
+  {
+    "id": "cadnd-024",
+    "imageRef": "cadnd-024_ca008_f06.png",
+    "label": "Tricuspid atresia",
+    "category": "Lab & Diagnostics",
+    "brick": "Cyanotic Congenital Heart Defects"
+  },
+  {
+    "id": "cadnd-025",
+    "imageRef": "cadnd-025_ca008_f07.png",
+    "label": "Truncus arteriosus",
+    "category": "Physiology & Mechanisms",
+    "brick": "Cyanotic Congenital Heart Defects"
+  },
+  {
+    "id": "cadnd-026",
+    "imageRef": "cadnd-026_ca009_f03.png",
+    "label": "Angiotensin II",
+    "category": "Physiology & Mechanisms",
+    "brick": "Blood Pressure Control: Foundations and Frameworks"
+  },
+  {
+    "id": "cadnd-027",
+    "imageRef": "cadnd-027_ca010_f01.png",
+    "label": "Aortic stenosis",
+    "category": "Pathology",
+    "brick": "Aortic Stenosis"
+  },
+  {
+    "id": "cadnd-028",
+    "imageRef": "cadnd-028_ca010_f02.png",
+    "label": "Bicuspid aortic valve",
+    "category": "Gross Anatomy",
+    "brick": "Aortic Stenosis"
+  },
+  {
+    "id": "cadnd-029",
+    "imageRef": "cadnd-029_ca010_f03.png",
+    "label": "Pressure-volume loop",
+    "category": "Physiology & Mechanisms",
+    "brick": "Aortic Stenosis"
+  },
+  {
+    "id": "cadnd-030",
+    "imageRef": "cadnd-030_ca010_f04.png",
+    "label": "Left ventricular hypertrophy",
+    "category": "Pathology",
+    "brick": "Aortic Stenosis"
+  },
+  {
+    "id": "cadnd-031",
+    "imageRef": "cadnd-031_ca010_f05.png",
+    "label": "Systolic murmur",
+    "category": "Physiology & Mechanisms",
+    "brick": "Aortic Stenosis"
+  },
+  {
+    "id": "cadnd-032",
+    "imageRef": "cadnd-032_ca010_f06.png",
+    "label": "Cardiac CT",
+    "category": "Lab & Diagnostics",
+    "brick": "Aortic Stenosis"
+  },
+  {
+    "id": "cadnd-033",
+    "imageRef": "cadnd-033_ca011_f02.png",
+    "label": "Baroreceptor firing",
+    "category": "Physiology & Mechanisms",
+    "brick": "Baroreceptor Regulation of Blood Pressure"
+  },
+  {
+    "id": "cadnd-034",
+    "imageRef": "cadnd-034_ca011_f03.png",
+    "label": "Reflex mechanism",
+    "category": "Physiology & Mechanisms",
+    "brick": "Baroreceptor Regulation of Blood Pressure"
+  },
+  {
+    "id": "cadnd-035",
+    "imageRef": "cadnd-035_ca012_f02.png",
+    "label": "Bradykinin",
+    "category": "Physiology & Mechanisms",
+    "brick": "Humoral Regulation of Blood Pressure"
+  },
+  {
+    "id": "cadnd-036",
+    "imageRef": "cadnd-036_ca013_f01.png",
+    "label": "Sphygmomanometry",
+    "category": "Lab & Diagnostics",
+    "brick": "Hemodynamics: Blood Pressure"
+  },
+  {
+    "id": "cadnd-037",
+    "imageRef": "cadnd-037_ca013_f02.png",
+    "label": "Incisura",
+    "category": "Physiology & Mechanisms",
+    "brick": "Hemodynamics: Blood Pressure"
+  },
+  {
+    "id": "cadnd-038",
+    "imageRef": "cadnd-038_ca013_f03.png",
+    "label": "Hydrostatic pressure",
+    "category": "Physiology & Mechanisms",
+    "brick": "Hemodynamics: Blood Pressure"
+  },
+  {
+    "id": "cadnd-039",
+    "imageRef": "cadnd-039_ca013_f04.png",
+    "label": "Vascular compliance",
+    "category": "Physiology & Mechanisms",
+    "brick": "Hemodynamics: Blood Pressure"
+  },
+  {
+    "id": "cadnd-040",
+    "imageRef": "cadnd-040_ca013_f05.png",
+    "label": "Venous compliance",
+    "category": "Physiology & Mechanisms",
+    "brick": "Hemodynamics: Blood Pressure"
+  },
+  {
+    "id": "cadnd-041",
+    "imageRef": "cadnd-041_ca013_f08.png",
+    "label": "Arterial wall",
+    "category": "Histology & Cell Biology",
+    "brick": "Hemodynamics: Blood Pressure"
+  },
+  {
+    "id": "cadnd-042",
+    "imageRef": "cadnd-042_ca013_f09.png",
+    "label": "Elastic recoil",
+    "category": "Physiology & Mechanisms",
+    "brick": "Hemodynamics: Blood Pressure"
+  },
+  {
+    "id": "cadnd-043",
+    "imageRef": "cadnd-043_ca013_f11.png",
+    "label": "Artery vs vein",
+    "category": "Histology & Cell Biology",
+    "brick": "Hemodynamics: Blood Pressure"
+  },
+  {
+    "id": "cadnd-044",
+    "imageRef": "cadnd-044_ca014_f01.png",
+    "label": "Microcirculation",
+    "category": "Physiology & Mechanisms",
+    "brick": "Starling Forces"
+  },
+  {
+    "id": "cadnd-045",
+    "imageRef": "cadnd-045_ca014_f02.png",
+    "label": "Fluid compartments",
+    "category": "Physiology & Mechanisms",
+    "brick": "Starling Forces"
+  },
+  {
+    "id": "cadnd-046",
+    "imageRef": "cadnd-046_ca014_f03.png",
+    "label": "Capillary pressure",
+    "category": "Physiology & Mechanisms",
+    "brick": "Starling Forces"
+  },
+  {
+    "id": "cadnd-047",
+    "imageRef": "cadnd-047_ca014_f04.png",
+    "label": "Starling forces",
+    "category": "Physiology & Mechanisms",
+    "brick": "Starling Forces"
+  },
+  {
+    "id": "cadnd-048",
+    "imageRef": "cadnd-048_ca014_f05.png",
+    "label": "Capillary types",
+    "category": "Histology & Cell Biology",
+    "brick": "Starling Forces"
+  },
+  {
+    "id": "cadnd-049",
+    "imageRef": "cadnd-049_ca014_f06.png",
+    "label": "Distal capillary",
+    "category": "Physiology & Mechanisms",
+    "brick": "Starling Forces"
+  },
+  {
+    "id": "cadnd-050",
+    "imageRef": "cadnd-050_ca014_f07.png",
+    "label": "Pitting edema",
+    "category": "Pathology",
+    "brick": "Starling Forces"
+  },
+  {
+    "id": "cadnd-051",
+    "imageRef": "cadnd-051_ca015_f02.png",
+    "label": "Active hyperemia",
+    "category": "Physiology & Mechanisms",
+    "brick": "Local Control of the Microcirculation"
+  },
+  {
+    "id": "cadnd-052",
+    "imageRef": "cadnd-052_ca015_f03.png",
+    "label": "Reactive hyperemia",
+    "category": "Physiology & Mechanisms",
+    "brick": "Local Control of the Microcirculation"
+  },
+  {
+    "id": "cadnd-053",
+    "imageRef": "cadnd-053_ca015_f05.png",
+    "label": "Paracrine factors",
+    "category": "Physiology & Mechanisms",
+    "brick": "Local Control of the Microcirculation"
+  },
+  {
+    "id": "cadnd-054",
+    "imageRef": "cadnd-054_ca015_f06.png",
+    "label": "Nitric oxide pathway",
+    "category": "Physiology & Mechanisms",
+    "brick": "Local Control of the Microcirculation"
+  },
+  {
+    "id": "cadnd-055",
+    "imageRef": "cadnd-055_ca015_f07.png",
+    "label": "Epinephrine vs norepinephrine",
+    "category": "Physiology & Mechanisms",
+    "brick": "Local Control of the Microcirculation"
+  },
+  {
+    "id": "cadnd-056",
+    "imageRef": "cadnd-056_ca016_f01.png",
+    "label": "Trendelenburg position",
+    "category": "Physiology & Mechanisms",
+    "brick": "Hypotension"
+  },
+  {
+    "id": "cadnd-057",
+    "imageRef": "cadnd-057_ca017_f01.png",
+    "label": "Sinus bradycardia",
+    "category": "Lab & Diagnostics",
+    "brick": "Sinus Bradycardia and Tachycardia"
+  },
+  {
+    "id": "cadnd-058",
+    "imageRef": "cadnd-058_ca017_f02.png",
+    "label": "R-R method",
+    "category": "Lab & Diagnostics",
+    "brick": "Sinus Bradycardia and Tachycardia"
+  },
+  {
+    "id": "cadnd-059",
+    "imageRef": "cadnd-059_ca017_f06.png",
+    "label": "Sinus tachycardia",
+    "category": "Lab & Diagnostics",
+    "brick": "Sinus Bradycardia and Tachycardia"
+  },
+  {
+    "id": "cadnd-060",
+    "imageRef": "cadnd-060_ca018_f03.png",
+    "label": "Arteriolosclerosis",
+    "category": "Pathology",
+    "brick": "Hypertension: Foundations and Frameworks"
+  },
+  {
+    "id": "cadnd-061",
+    "imageRef": "cadnd-061_ca019_f01.png",
+    "label": "Hypertension classification",
+    "category": "Pathology",
+    "brick": "Primary (Essential) Hypertension"
+  },
+  {
+    "id": "cadnd-062",
+    "imageRef": "cadnd-062_ca020_f01.png",
+    "label": "Fibromuscular dysplasia",
+    "category": "Pathology",
+    "brick": "Secondary Hypertension"
+  },
+  {
+    "id": "cadnd-063",
+    "imageRef": "cadnd-063_ca020_f02.png",
+    "label": "Renal artery stenosis",
+    "category": "Lab & Diagnostics",
+    "brick": "Secondary Hypertension"
+  },
+  {
+    "id": "cadnd-064",
+    "imageRef": "cadnd-064_ca020_f03.png",
+    "label": "Fibromuscular dysplasia",
+    "category": "Lab & Diagnostics",
+    "brick": "Secondary Hypertension"
+  },
+  {
+    "id": "cadnd-065",
+    "imageRef": "cadnd-065_ca021_f01.png",
+    "label": "Cardiac valves",
+    "category": "Gross Anatomy",
+    "brick": "Aortic Regurgitation and Pulmonary Valve Disease"
+  },
+  {
+    "id": "cadnd-066",
+    "imageRef": "cadnd-066_ca021_f02.png",
+    "label": "Frank-Starling curve",
+    "category": "Physiology & Mechanisms",
+    "brick": "Aortic Regurgitation and Pulmonary Valve Disease"
+  },
+  {
+    "id": "cadnd-067",
+    "imageRef": "cadnd-067_ca021_f04.png",
+    "label": "Cardiac remodeling",
+    "category": "Physiology & Mechanisms",
+    "brick": "Aortic Regurgitation and Pulmonary Valve Disease"
+  },
+  {
+    "id": "cadnd-068",
+    "imageRef": "cadnd-068_ca021_f05.png",
+    "label": "Aortic regurgitation murmur",
+    "category": "Lab & Diagnostics",
+    "brick": "Aortic Regurgitation and Pulmonary Valve Disease"
+  },
+  {
+    "id": "cadnd-069",
+    "imageRef": "cadnd-069_ca021_f07.png",
+    "label": "Pulmonary stenosis",
+    "category": "Pathology",
+    "brick": "Aortic Regurgitation and Pulmonary Valve Disease"
+  },
+  {
+    "id": "cadnd-070",
+    "imageRef": "cadnd-070_ca022_f03.png",
+    "label": "Onion skinning",
+    "category": "Pathology",
+    "brick": "Hypertensive Emergency"
+  },
+  {
+    "id": "cadnd-071",
+    "imageRef": "cadnd-071_ca022_f04.png",
+    "label": "Papilledema",
+    "category": "Lab & Diagnostics",
+    "brick": "Hypertensive Emergency"
+  },
+  {
+    "id": "cadnd-072",
+    "imageRef": "cadnd-072_ca023_f02.png",
+    "label": "Vessel tunicae",
+    "category": "Histology & Cell Biology",
+    "brick": "Histology of Blood Vessels and Lymphatics"
+  },
+  {
+    "id": "cadnd-073",
+    "imageRef": "cadnd-073_ca023_f05.png",
+    "label": "Aorta",
+    "category": "Histology & Cell Biology",
+    "brick": "Histology of Blood Vessels and Lymphatics"
+  },
+  {
+    "id": "cadnd-074",
+    "imageRef": "cadnd-074_ca023_f06.png",
+    "label": "Aortic elastin",
+    "category": "Histology & Cell Biology",
+    "brick": "Histology of Blood Vessels and Lymphatics"
+  },
+  {
+    "id": "cadnd-075",
+    "imageRef": "cadnd-075_ca023_f08.png",
+    "label": "Arteriole",
+    "category": "Histology & Cell Biology",
+    "brick": "Histology of Blood Vessels and Lymphatics"
+  },
+  {
+    "id": "cadnd-076",
+    "imageRef": "cadnd-076_ca023_f13.png",
+    "label": "Fenestrated capillary",
+    "category": "Histology & Cell Biology",
+    "brick": "Histology of Blood Vessels and Lymphatics"
+  },
+  {
+    "id": "cadnd-077",
+    "imageRef": "cadnd-077_ca023_f15.png",
+    "label": "Lymphatic capillaries",
+    "category": "Physiology & Mechanisms",
+    "brick": "Histology of Blood Vessels and Lymphatics"
+  },
+  {
+    "id": "cadnd-078",
+    "imageRef": "cadnd-078_ca024_f04.png",
+    "label": "Thoracic aortic aneurysm",
+    "category": "Physiology & Mechanisms",
+    "brick": "Aortic Aneurysm"
+  },
+  {
+    "id": "cadnd-079",
+    "imageRef": "cadnd-079_ca024_f07.png",
+    "label": "Blue toe syndrome",
+    "category": "Physiology & Mechanisms",
+    "brick": "Aortic Aneurysm"
+  },
+  {
+    "id": "cadnd-080",
+    "imageRef": "cadnd-080_ca024_f08.png",
+    "label": "AAA palpation",
+    "category": "Lab & Diagnostics",
+    "brick": "Aortic Aneurysm"
+  },
+  {
+    "id": "cadnd-081",
+    "imageRef": "cadnd-081_ca024_f09.png",
+    "label": "AAA ultrasound",
+    "category": "Lab & Diagnostics",
+    "brick": "Aortic Aneurysm"
+  },
+  {
+    "id": "cadnd-082",
+    "imageRef": "cadnd-082_ca024_f10.png",
+    "label": "CT angiography",
+    "category": "Lab & Diagnostics",
+    "brick": "Aortic Aneurysm"
+  },
+  {
+    "id": "cadnd-083",
+    "imageRef": "cadnd-083_ca024_f11.png",
+    "label": "Mediastinal widening",
+    "category": "Lab & Diagnostics",
+    "brick": "Aortic Aneurysm"
+  },
+  {
+    "id": "cadnd-084",
+    "imageRef": "cadnd-084_ca024_f14.png",
+    "label": "Popliteal aneurysm",
+    "category": "Physiology & Mechanisms",
+    "brick": "Aortic Aneurysm"
+  },
+  {
+    "id": "cadnd-085",
+    "imageRef": "cadnd-085_ca024_f15.png",
+    "label": "Mycotic aneurysm",
+    "category": "Lab & Diagnostics",
+    "brick": "Aortic Aneurysm"
+  },
+  {
+    "id": "cadnd-086",
+    "imageRef": "cadnd-086_ca025_f01.png",
+    "label": "Aortic dissection",
+    "category": "Gross Anatomy",
+    "brick": "Aortic Dissection"
+  },
+  {
+    "id": "cadnd-087",
+    "imageRef": "cadnd-087_ca025_f02.png",
+    "label": "Aortic dissection",
+    "category": "Physiology & Mechanisms",
+    "brick": "Aortic Dissection"
+  },
+  {
+    "id": "cadnd-088",
+    "imageRef": "cadnd-088_ca025_f04.png",
+    "label": "Aortic dissection",
+    "category": "Lab & Diagnostics",
+    "brick": "Aortic Dissection"
+  },
+  {
+    "id": "cadnd-089",
+    "imageRef": "cadnd-089_ca025_f05.png",
+    "label": "Transesophageal echocardiogram",
+    "category": "Lab & Diagnostics",
+    "brick": "Aortic Dissection"
+  },
+  {
+    "id": "cadnd-090",
+    "imageRef": "cadnd-090_ca026_f01.png",
+    "label": "Saddle nose",
+    "category": "Pathology",
+    "brick": "Small-Vessel Vasculitis"
+  },
+  {
+    "id": "cadnd-091",
+    "imageRef": "cadnd-091_ca026_f02.png",
+    "label": "Cavitary lung lesion",
+    "category": "Pathology",
+    "brick": "Small-Vessel Vasculitis"
+  },
+  {
+    "id": "cadnd-092",
+    "imageRef": "cadnd-092_ca026_f05.png",
+    "label": "Palpable purpura",
+    "category": "Pathology",
+    "brick": "Small-Vessel Vasculitis"
+  },
+  {
+    "id": "cadnd-093",
+    "imageRef": "cadnd-093_ca026_f06.png",
+    "label": "Purpuric rash",
+    "category": "Pathology",
+    "brick": "Small-Vessel Vasculitis"
+  },
+  {
+    "id": "cadnd-094",
+    "imageRef": "cadnd-094_ca027_f01.png",
+    "label": "Temporal artery",
+    "category": "Pathology",
+    "brick": "Large-Vessel Vasculitis"
+  },
+  {
+    "id": "cadnd-095",
+    "imageRef": "cadnd-095_ca027_f02.png",
+    "label": "Giant cell arteritis",
+    "category": "Histology & Cell Biology",
+    "brick": "Large-Vessel Vasculitis"
+  },
+  {
+    "id": "cadnd-096",
+    "imageRef": "cadnd-096_ca027_f03.png",
+    "label": "Carotid artery branches",
+    "category": "Gross Anatomy",
+    "brick": "Large-Vessel Vasculitis"
+  },
+  {
+    "id": "cadnd-097",
+    "imageRef": "cadnd-097_ca027_f04.png",
+    "label": "Halo sign",
+    "category": "Lab & Diagnostics",
+    "brick": "Large-Vessel Vasculitis"
+  },
+  {
+    "id": "cadnd-098",
+    "imageRef": "cadnd-098_ca027_f05.png",
+    "label": "Takayasu arteritis",
+    "category": "Pathology",
+    "brick": "Large-Vessel Vasculitis"
+  },
+  {
+    "id": "cadnd-099",
+    "imageRef": "cadnd-099_ca027_f06.png",
+    "label": "Macaroni sign",
+    "category": "Lab & Diagnostics",
+    "brick": "Large-Vessel Vasculitis"
+  },
+  {
+    "id": "cadnd-100",
+    "imageRef": "cadnd-100_ca028_f01.png",
+    "label": "Strawberry tongue",
+    "category": "Pathology",
+    "brick": "Medium-Vessel Vasculitis"
+  },
+  {
+    "id": "cadnd-101",
+    "imageRef": "cadnd-101_ca028_f02.png",
+    "label": "Kawasaki rash",
+    "category": "Pathology",
+    "brick": "Medium-Vessel Vasculitis"
+  },
+  {
+    "id": "cadnd-102",
+    "imageRef": "cadnd-102_ca028_f03.png",
+    "label": "Palmar erythema",
+    "category": "Pathology",
+    "brick": "Medium-Vessel Vasculitis"
+  },
+  {
+    "id": "cadnd-103",
+    "imageRef": "cadnd-103_ca028_f05.png",
+    "label": "Fibrinoid necrosis",
+    "category": "Pathology",
+    "brick": "Medium-Vessel Vasculitis"
+  },
+  {
+    "id": "cadnd-104",
+    "imageRef": "cadnd-104_ca028_f06.png",
+    "label": "PAN artery",
+    "category": "Pathology",
+    "brick": "Medium-Vessel Vasculitis"
+  },
+  {
+    "id": "cadnd-105",
+    "imageRef": "cadnd-105_ca028_f07.png",
+    "label": "Beads on a string",
+    "category": "Lab & Diagnostics",
+    "brick": "Medium-Vessel Vasculitis"
+  },
+  {
+    "id": "cadnd-106",
+    "imageRef": "cadnd-106_ca028_f09.png",
+    "label": "Thromboangiitis obliterans",
+    "category": "Pathology",
+    "brick": "Medium-Vessel Vasculitis"
+  },
+  {
+    "id": "cadnd-107",
+    "imageRef": "cadnd-107_ca029_f01.png",
+    "label": "Coronary arteries",
+    "category": "Gross Anatomy",
+    "brick": "Coronary Blood Flow and Vascular Physiology"
+  },
+  {
+    "id": "cadnd-108",
+    "imageRef": "cadnd-108_ca029_f03.png",
+    "label": "Coronary blood flow",
+    "category": "Physiology & Mechanisms",
+    "brick": "Coronary Blood Flow and Vascular Physiology"
+  },
+  {
+    "id": "cadnd-109",
+    "imageRef": "cadnd-109_ca030_f01.png",
+    "label": "Arterial narrowing",
+    "category": "Pathology",
+    "brick": "Atherosclerosis"
+  },
+  {
+    "id": "cadnd-110",
+    "imageRef": "cadnd-110_ca030_f02.png",
+    "label": "Atheroma formation",
+    "category": "Physiology & Mechanisms",
+    "brick": "Atherosclerosis"
+  },
+  {
+    "id": "cadnd-111",
+    "imageRef": "cadnd-111_ca030_f04.png",
+    "label": "Atherosclerotic plaque",
+    "category": "Pathology",
+    "brick": "Atherosclerosis"
+  },
+  {
+    "id": "cadnd-112",
+    "imageRef": "cadnd-112_ca030_f05.png",
+    "label": "Aorta",
+    "category": "Pathology",
+    "brick": "Atherosclerosis"
+  },
+  {
+    "id": "cadnd-113",
+    "imageRef": "cadnd-113_ca030_f06.png",
+    "label": "Atheroma progression",
+    "category": "Physiology & Mechanisms",
+    "brick": "Atherosclerosis"
+  },
+  {
+    "id": "cadnd-114",
+    "imageRef": "cadnd-114_ca031_f05.png",
+    "label": "Retinal artery occlusion",
+    "category": "Lab & Diagnostics",
+    "brick": "Arterial Emboli"
+  },
+  {
+    "id": "cadnd-115",
+    "imageRef": "cadnd-115_ca031_f06.png",
+    "label": "Renal emboli",
+    "category": "Lab & Diagnostics",
+    "brick": "Arterial Emboli"
+  },
+  {
+    "id": "cadnd-116",
+    "imageRef": "cadnd-116_ca032_f01.png",
+    "label": "Mitral regurgitation",
+    "category": "Physiology & Mechanisms",
+    "brick": "Acute Rheumatic Fever and Rheumatic Heart Disease"
+  },
+  {
+    "id": "cadnd-117",
+    "imageRef": "cadnd-117_ca032_f02.png",
+    "label": "Infective endocarditis",
+    "category": "Pathology",
+    "brick": "Acute Rheumatic Fever and Rheumatic Heart Disease"
+  },
+  {
+    "id": "cadnd-118",
+    "imageRef": "cadnd-118_ca032_f03.png",
+    "label": "Mitral valve",
+    "category": "Pathology",
+    "brick": "Acute Rheumatic Fever and Rheumatic Heart Disease"
+  },
+  {
+    "id": "cadnd-119",
+    "imageRef": "cadnd-119_ca033_f01.png",
+    "label": "Atherosclerotic plaque",
+    "category": "Pathology",
+    "brick": "Carotid Stenosis"
+  },
+  {
+    "id": "cadnd-120",
+    "imageRef": "cadnd-120_ca033_f02.png",
+    "label": "Embolic stroke",
+    "category": "Physiology & Mechanisms",
+    "brick": "Carotid Stenosis"
+  },
+  {
+    "id": "cadnd-121",
+    "imageRef": "cadnd-121_ca033_f03.png",
+    "label": "MCA infarct",
+    "category": "Lab & Diagnostics",
+    "brick": "Carotid Stenosis"
+  },
+  {
+    "id": "cadnd-122",
+    "imageRef": "cadnd-122_ca033_f07.png",
+    "label": "Carotid endarterectomy",
+    "category": "Gross Anatomy",
+    "brick": "Carotid Stenosis"
+  },
+  {
+    "id": "cadnd-123",
+    "imageRef": "cadnd-123_ca035_f01.png",
+    "label": "Stenosed vessel",
+    "category": "Physiology & Mechanisms",
+    "brick": "Peripheral Arterial Disease"
+  },
+  {
+    "id": "cadnd-124",
+    "imageRef": "cadnd-124_ca035_f02.png",
+    "label": "Ankle-brachial index",
+    "category": "Lab & Diagnostics",
+    "brick": "Peripheral Arterial Disease"
+  },
+  {
+    "id": "cadnd-125",
+    "imageRef": "cadnd-125_ca035_f03.png",
+    "label": "Muscle wasting",
+    "category": "Pathology",
+    "brick": "Peripheral Arterial Disease"
+  },
+  {
+    "id": "cadnd-126",
+    "imageRef": "cadnd-126_ca035_f04.png",
+    "label": "Buerger test",
+    "category": "Lab & Diagnostics",
+    "brick": "Peripheral Arterial Disease"
+  },
+  {
+    "id": "cadnd-127",
+    "imageRef": "cadnd-127_ca035_f06.png",
+    "label": "Angioplasty",
+    "category": "Physiology & Mechanisms",
+    "brick": "Peripheral Arterial Disease"
+  },
+  {
+    "id": "cadnd-128",
+    "imageRef": "cadnd-128_ca035_f08.png",
+    "label": "Vein graft bypass",
+    "category": "Physiology & Mechanisms",
+    "brick": "Peripheral Arterial Disease"
+  },
+  {
+    "id": "cadnd-129",
+    "imageRef": "cadnd-129_ca036_f04.png",
+    "label": "Coronary CT angiogram",
+    "category": "Lab & Diagnostics",
+    "brick": "Angina Pectoris"
+  },
+  {
+    "id": "cadnd-130",
+    "imageRef": "cadnd-130_ca037_f02.png",
+    "label": "Ischemic injury",
+    "category": "Pathology",
+    "brick": "Myocardial Infarction"
+  },
+  {
+    "id": "cadnd-131",
+    "imageRef": "cadnd-131_ca037_f03.png",
+    "label": "Neutrophilic infiltrate",
+    "category": "Pathology",
+    "brick": "Myocardial Infarction"
+  },
+  {
+    "id": "cadnd-132",
+    "imageRef": "cadnd-132_ca037_f04.png",
+    "label": "Mature scar",
+    "category": "Pathology",
+    "brick": "Myocardial Infarction"
+  },
+  {
+    "id": "cadnd-133",
+    "imageRef": "cadnd-133_ca037_f06.png",
+    "label": "Cardiac biomarkers",
+    "category": "Lab & Diagnostics",
+    "brick": "Myocardial Infarction"
+  },
+  {
+    "id": "cadnd-134",
+    "imageRef": "cadnd-134_ca037_f07.png",
+    "label": "Cardiac myofilament",
+    "category": "Physiology & Mechanisms",
+    "brick": "Myocardial Infarction"
+  },
+  {
+    "id": "cadnd-135",
+    "imageRef": "cadnd-135_ca037_f08.png",
+    "label": "Contraction band necrosis",
+    "category": "Pathology",
+    "brick": "Myocardial Infarction"
+  },
+  {
+    "id": "cadnd-136",
+    "imageRef": "cadnd-136_ca038_f02.png",
+    "label": "Action potential",
+    "category": "Physiology & Mechanisms",
+    "brick": "ST Segment Changes"
+  },
+  {
+    "id": "cadnd-137",
+    "imageRef": "cadnd-137_ca038_f04.png",
+    "label": "Ischemic injury",
+    "category": "Pathology",
+    "brick": "ST Segment Changes"
+  },
+  {
+    "id": "cadnd-138",
+    "imageRef": "cadnd-138_ca038_f05.png",
+    "label": "Coronary arteries",
+    "category": "Gross Anatomy",
+    "brick": "ST Segment Changes"
+  },
+  {
+    "id": "cadnd-139",
+    "imageRef": "cadnd-139_ca038_f06.png",
+    "label": "Anterolateral STEMI",
+    "category": "Lab & Diagnostics",
+    "brick": "ST Segment Changes"
+  },
+  {
+    "id": "cadnd-140",
+    "imageRef": "cadnd-140_ca038_f07.png",
+    "label": "Inferior MI",
+    "category": "Lab & Diagnostics",
+    "brick": "ST Segment Changes"
+  },
+  {
+    "id": "cadnd-141",
+    "imageRef": "cadnd-141_ca038_f09.png",
+    "label": "Posterior leads",
+    "category": "Lab & Diagnostics",
+    "brick": "ST Segment Changes"
+  },
+  {
+    "id": "cadnd-142",
+    "imageRef": "cadnd-142_ca039_f02.png",
+    "label": "Platelet activation",
+    "category": "Pharmacology",
+    "brick": "Treatment of Acute Coronary Syndrome"
+  },
+  {
+    "id": "cadnd-143",
+    "imageRef": "cadnd-143_ca039_f04.png",
+    "label": "Coronary angiogram",
+    "category": "Lab & Diagnostics",
+    "brick": "Treatment of Acute Coronary Syndrome"
+  },
+  {
+    "id": "cadnd-144",
+    "imageRef": "cadnd-144_ca040_f01.png",
+    "label": "Embolus",
+    "category": "Physiology & Mechanisms",
+    "brick": "Deep Vein Thrombosis"
+  },
+  {
+    "id": "cadnd-145",
+    "imageRef": "cadnd-145_ca040_f02.png",
+    "label": "Pulmonary embolism",
+    "category": "Physiology & Mechanisms",
+    "brick": "Deep Vein Thrombosis"
+  },
+  {
+    "id": "cadnd-146",
+    "imageRef": "cadnd-146_ca040_f03.png",
+    "label": "DVT",
+    "category": "Pathology",
+    "brick": "Deep Vein Thrombosis"
+  },
+  {
+    "id": "cadnd-147",
+    "imageRef": "cadnd-147_ca040_f04.png",
+    "label": "Virchow triad",
+    "category": "Physiology & Mechanisms",
+    "brick": "Deep Vein Thrombosis"
+  },
+  {
+    "id": "cadnd-148",
+    "imageRef": "cadnd-148_ca040_f05.png",
+    "label": "Turbulent flow",
+    "category": "Physiology & Mechanisms",
+    "brick": "Deep Vein Thrombosis"
+  },
+  {
+    "id": "cadnd-149",
+    "imageRef": "cadnd-149_ca040_f06.png",
+    "label": "Phlegmasia cerulea dolens",
+    "category": "Pathology",
+    "brick": "Deep Vein Thrombosis"
+  },
+  {
+    "id": "cadnd-150",
+    "imageRef": "cadnd-150_ca040_f07.png",
+    "label": "D-dimer",
+    "category": "Lab & Diagnostics",
+    "brick": "Deep Vein Thrombosis"
+  },
+  {
+    "id": "cadnd-151",
+    "imageRef": "cadnd-151_ca040_f08.png",
+    "label": "Compression ultrasound",
+    "category": "Lab & Diagnostics",
+    "brick": "Deep Vein Thrombosis"
+  },
+  {
+    "id": "cadnd-152",
+    "imageRef": "cadnd-152_ca040_f10.png",
+    "label": "Pneumatic compression",
+    "category": "Physiology & Mechanisms",
+    "brick": "Deep Vein Thrombosis"
+  },
+  {
+    "id": "cadnd-153",
+    "imageRef": "cadnd-153_ca041_f01.png",
+    "label": "Coagulation cascade",
+    "category": "Physiology & Mechanisms",
+    "brick": "DOACs"
+  },
+  {
+    "id": "cadnd-154",
+    "imageRef": "cadnd-154_ca042_f01.png",
+    "label": "Varicose veins",
+    "category": "Pathology",
+    "brick": "Superficial Venous Disease"
+  },
+  {
+    "id": "cadnd-155",
+    "imageRef": "cadnd-155_ca042_f04.png",
+    "label": "Varicose veins",
+    "category": "Gross Anatomy",
+    "brick": "Superficial Venous Disease"
+  },
+  {
+    "id": "cadnd-156",
+    "imageRef": "cadnd-156_ca043_f01.png",
+    "label": "Mitral valve",
+    "category": "Gross Anatomy",
+    "brick": "Mitral Regurgitation and Mitral Valve Prolapse"
+  },
+  {
+    "id": "cadnd-157",
+    "imageRef": "cadnd-157_ca043_f02.png",
+    "label": "Chordae rupture",
+    "category": "Pathology",
+    "brick": "Mitral Regurgitation and Mitral Valve Prolapse"
+  },
+  {
+    "id": "cadnd-158",
+    "imageRef": "cadnd-158_ca043_f03.png",
+    "label": "Leaflet tethering",
+    "category": "Physiology & Mechanisms",
+    "brick": "Mitral Regurgitation and Mitral Valve Prolapse"
+  },
+  {
+    "id": "cadnd-159",
+    "imageRef": "cadnd-159_ca043_f04.png",
+    "label": "Myxomatous degeneration",
+    "category": "Histology & Cell Biology",
+    "brick": "Mitral Regurgitation and Mitral Valve Prolapse"
+  },
+  {
+    "id": "cadnd-160",
+    "imageRef": "cadnd-160_ca043_f05.png",
+    "label": "Infective endocarditis",
+    "category": "Pathology",
+    "brick": "Mitral Regurgitation and Mitral Valve Prolapse"
+  },
+  {
+    "id": "cadnd-161",
+    "imageRef": "cadnd-161_ca043_f08.png",
+    "label": "Mitral valve repair",
+    "category": "Gross Anatomy",
+    "brick": "Mitral Regurgitation and Mitral Valve Prolapse"
+  },
+  {
+    "id": "cadnd-162",
+    "imageRef": "cadnd-162_ca044_f01.png",
+    "label": "Cardiac action potential",
+    "category": "Physiology & Mechanisms",
+    "brick": "Arrhythmias: Pathophysiology and Diagnosis"
+  },
+  {
+    "id": "cadnd-163",
+    "imageRef": "cadnd-163_ca044_f03.png",
+    "label": "Afterdepolarizations",
+    "category": "Physiology & Mechanisms",
+    "brick": "Arrhythmias: Pathophysiology and Diagnosis"
+  },
+  {
+    "id": "cadnd-164",
+    "imageRef": "cadnd-164_ca044_f04.png",
+    "label": "AVNRT",
+    "category": "Physiology & Mechanisms",
+    "brick": "Arrhythmias: Pathophysiology and Diagnosis"
+  },
+  {
+    "id": "cadnd-165",
+    "imageRef": "cadnd-165_ca045_f01.png",
+    "label": "Cardiac action potential",
+    "category": "Physiology & Mechanisms",
+    "brick": "Antiarrhythmic Agents: Class I Drugs"
+  },
+  {
+    "id": "cadnd-166",
+    "imageRef": "cadnd-166_ca045_f02.png",
+    "label": "Sodium channel states",
+    "category": "Physiology & Mechanisms",
+    "brick": "Antiarrhythmic Agents: Class I Drugs"
+  },
+  {
+    "id": "cadnd-167",
+    "imageRef": "cadnd-167_ca045_f03.png",
+    "label": "Class IA effect",
+    "category": "Pharmacology",
+    "brick": "Antiarrhythmic Agents: Class I Drugs"
+  },
+  {
+    "id": "cadnd-168",
+    "imageRef": "cadnd-168_ca045_f04.png",
+    "label": "Torsades de pointes",
+    "category": "Lab & Diagnostics",
+    "brick": "Antiarrhythmic Agents: Class I Drugs"
+  },
+  {
+    "id": "cadnd-169",
+    "imageRef": "cadnd-169_ca045_f05.png",
+    "label": "Class IB effect",
+    "category": "Pharmacology",
+    "brick": "Antiarrhythmic Agents: Class I Drugs"
+  },
+  {
+    "id": "cadnd-170",
+    "imageRef": "cadnd-170_ca045_f06.png",
+    "label": "Class IC effect",
+    "category": "Pharmacology",
+    "brick": "Antiarrhythmic Agents: Class I Drugs"
+  },
+  {
+    "id": "cadnd-171",
+    "imageRef": "cadnd-171_ca046_f01.png",
+    "label": "Sinus bradycardia",
+    "category": "Lab & Diagnostics",
+    "brick": "Sinus Bradycardia and Related Disorders"
+  },
+  {
+    "id": "cadnd-172",
+    "imageRef": "cadnd-172_ca046_f02.png",
+    "label": "Sinus pause",
+    "category": "Physiology & Mechanisms",
+    "brick": "Sinus Bradycardia and Related Disorders"
+  },
+  {
+    "id": "cadnd-173",
+    "imageRef": "cadnd-173_ca046_f03.png",
+    "label": "Junctional escape rhythm",
+    "category": "Lab & Diagnostics",
+    "brick": "Sinus Bradycardia and Related Disorders"
+  },
+  {
+    "id": "cadnd-174",
+    "imageRef": "cadnd-174_ca047_f01.png",
+    "label": "Pacemaker action potential",
+    "category": "Physiology & Mechanisms",
+    "brick": "Antiarrhythmic Agents: Classes II-IV"
+  },
+  {
+    "id": "cadnd-175",
+    "imageRef": "cadnd-175_ca047_f02.png",
+    "label": "Beta-blocker effect",
+    "category": "Physiology & Mechanisms",
+    "brick": "Antiarrhythmic Agents: Classes II-IV"
+  },
+  {
+    "id": "cadnd-176",
+    "imageRef": "cadnd-176_ca047_f03.png",
+    "label": "Calcium-blocker effect",
+    "category": "Physiology & Mechanisms",
+    "brick": "Antiarrhythmic Agents: Classes II-IV"
+  },
+  {
+    "id": "cadnd-177",
+    "imageRef": "cadnd-177_ca048_f01.png",
+    "label": "Heart anatomy",
+    "category": "Gross Anatomy",
+    "brick": "Atrial Fibrillation"
+  },
+  {
+    "id": "cadnd-178",
+    "imageRef": "cadnd-178_ca049_f01.png",
+    "label": "Premature atrial contraction",
+    "category": "Lab & Diagnostics",
+    "brick": "Supraventricular Arrhythmias"
+  },
+  {
+    "id": "cadnd-179",
+    "imageRef": "cadnd-179_ca049_f03.png",
+    "label": "Atrial flutter",
+    "category": "Lab & Diagnostics",
+    "brick": "Supraventricular Arrhythmias"
+  },
+  {
+    "id": "cadnd-180",
+    "imageRef": "cadnd-180_ca049_f04.png",
+    "label": "Multifocal atrial tachycardia",
+    "category": "Lab & Diagnostics",
+    "brick": "Supraventricular Arrhythmias"
+  },
+  {
+    "id": "cadnd-181",
+    "imageRef": "cadnd-181_ca049_f05.png",
+    "label": "AVNRT",
+    "category": "Lab & Diagnostics",
+    "brick": "Supraventricular Arrhythmias"
+  },
+  {
+    "id": "cadnd-182",
+    "imageRef": "cadnd-182_ca049_f06.png",
+    "label": "Delta wave",
+    "category": "Lab & Diagnostics",
+    "brick": "Supraventricular Arrhythmias"
+  },
+  {
+    "id": "cadnd-183",
+    "imageRef": "cadnd-183_ca049_f07.png",
+    "label": "WPW pattern",
+    "category": "Lab & Diagnostics",
+    "brick": "Supraventricular Arrhythmias"
+  },
+  {
+    "id": "cadnd-184",
+    "imageRef": "cadnd-184_ca050_f01.png",
+    "label": "Cardiac conduction system",
+    "category": "Physiology & Mechanisms",
+    "brick": "Heart Blocks"
+  },
+  {
+    "id": "cadnd-185",
+    "imageRef": "cadnd-185_ca050_f04.png",
+    "label": "First-degree AV block",
+    "category": "Lab & Diagnostics",
+    "brick": "Heart Blocks"
+  },
+  {
+    "id": "cadnd-186",
+    "imageRef": "cadnd-186_ca050_f05.png",
+    "label": "Mobitz type I",
+    "category": "Lab & Diagnostics",
+    "brick": "Heart Blocks"
+  },
+  {
+    "id": "cadnd-187",
+    "imageRef": "cadnd-187_ca050_f06.png",
+    "label": "Mobitz type II",
+    "category": "Lab & Diagnostics",
+    "brick": "Heart Blocks"
+  },
+  {
+    "id": "cadnd-188",
+    "imageRef": "cadnd-188_ca050_f07.png",
+    "label": "Complete heart block",
+    "category": "Lab & Diagnostics",
+    "brick": "Heart Blocks"
+  },
+  {
+    "id": "cadnd-189",
+    "imageRef": "cadnd-189_ca050_f08.png",
+    "label": "2:1 AV block",
+    "category": "Lab & Diagnostics",
+    "brick": "Heart Blocks"
+  },
+  {
+    "id": "cadnd-190",
+    "imageRef": "cadnd-190_ca051_f01.png",
+    "label": "Bigeminy",
+    "category": "Lab & Diagnostics",
+    "brick": "Ventricular Arrhythmias"
+  },
+  {
+    "id": "cadnd-191",
+    "imageRef": "cadnd-191_ca051_f03.png",
+    "label": "ICD",
+    "category": "Lab & Diagnostics",
+    "brick": "Ventricular Arrhythmias"
+  },
+  {
+    "id": "cadnd-192",
+    "imageRef": "cadnd-192_ca051_f04.png",
+    "label": "Ventricular tachycardia",
+    "category": "Lab & Diagnostics",
+    "brick": "Ventricular Arrhythmias"
+  },
+  {
+    "id": "cadnd-193",
+    "imageRef": "cadnd-193_ca051_f05.png",
+    "label": "Ventricular fibrillation",
+    "category": "Lab & Diagnostics",
+    "brick": "Ventricular Arrhythmias"
+  },
+  {
+    "id": "cadnd-194",
+    "imageRef": "cadnd-194_ca051_f06.png",
+    "label": "ICD",
+    "category": "Gross Anatomy",
+    "brick": "Ventricular Arrhythmias"
+  },
+  {
+    "id": "cadnd-195",
+    "imageRef": "cadnd-195_ca052_f02.png",
+    "label": "Concentric hypertrophy",
+    "category": "Pathology",
+    "brick": "Physiology of Heart Failure"
+  },
+  {
+    "id": "cadnd-196",
+    "imageRef": "cadnd-196_ca052_f05.png",
+    "label": "Frank-Starling curve",
+    "category": "Physiology & Mechanisms",
+    "brick": "Physiology of Heart Failure"
+  },
+  {
+    "id": "cadnd-197",
+    "imageRef": "cadnd-197_ca053_f01.png",
+    "label": "Pitting edema",
+    "category": "Lab & Diagnostics",
+    "brick": "Edema"
+  },
+  {
+    "id": "cadnd-198",
+    "imageRef": "cadnd-198_ca053_f03.png",
+    "label": "Starling forces",
+    "category": "Physiology & Mechanisms",
+    "brick": "Edema"
+  },
+  {
+    "id": "cadnd-199",
+    "imageRef": "cadnd-199_ca053_f04.png",
+    "label": "Lymphatic system",
+    "category": "Physiology & Mechanisms",
+    "brick": "Edema"
+  },
+  {
+    "id": "cadnd-200",
+    "imageRef": "cadnd-200_ca053_f05.png",
+    "label": "Causes of edema",
+    "category": "Pathology",
+    "brick": "Edema"
+  },
+  {
+    "id": "cadnd-201",
+    "imageRef": "cadnd-201_ca053_f07.png",
+    "label": "Edema mechanisms",
+    "category": "Physiology & Mechanisms",
+    "brick": "Edema"
+  },
+  {
+    "id": "cadnd-202",
+    "imageRef": "cadnd-202_ca054_f01.png",
+    "label": "Mitral stenosis",
+    "category": "Physiology & Mechanisms",
+    "brick": "Tricuspid Regurgitation and Tricuspid Stenosis"
+  },
+  {
+    "id": "cadnd-203",
+    "imageRef": "cadnd-203_ca055_f01.png",
+    "label": "Left-sided heart failure",
+    "category": "Physiology & Mechanisms",
+    "brick": "Diagnosis of Heart Failure"
+  },
+  {
+    "id": "cadnd-204",
+    "imageRef": "cadnd-204_ca055_f03.png",
+    "label": "LV hypertrophy",
+    "category": "Lab & Diagnostics",
+    "brick": "Diagnosis of Heart Failure"
+  },
+  {
+    "id": "cadnd-205",
+    "imageRef": "cadnd-205_ca055_f04.png",
+    "label": "Pulmonary edema",
+    "category": "Lab & Diagnostics",
+    "brick": "Diagnosis of Heart Failure"
+  },
+  {
+    "id": "cadnd-206",
+    "imageRef": "cadnd-206_ca056_f02.png",
+    "label": "Digoxin",
+    "category": "Physiology & Mechanisms",
+    "brick": "Management of Chronic Heart Failure"
+  },
+  {
+    "id": "cadnd-207",
+    "imageRef": "cadnd-207_ca056_f03.png",
+    "label": "HF treatment algorithm",
+    "category": "Pharmacology",
+    "brick": "Management of Chronic Heart Failure"
+  },
+  {
+    "id": "cadnd-208",
+    "imageRef": "cadnd-208_ca057_f03.png",
+    "label": "Dilated heart",
+    "category": "Pathology",
+    "brick": "Dilated Cardiomyopathy"
+  },
+  {
+    "id": "cadnd-209",
+    "imageRef": "cadnd-209_ca057_f04.png",
+    "label": "Eccentric hypertrophy",
+    "category": "Physiology & Mechanisms",
+    "brick": "Dilated Cardiomyopathy"
+  },
+  {
+    "id": "cadnd-210",
+    "imageRef": "cadnd-210_ca057_f05.png",
+    "label": "Lymphocytic myocarditis",
+    "category": "Histology & Cell Biology",
+    "brick": "Dilated Cardiomyopathy"
+  },
+  {
+    "id": "cadnd-211",
+    "imageRef": "cadnd-211_ca062_f01.png",
+    "label": "Aortic valve",
+    "category": "Pathology",
+    "brick": "Aortic Stenosis"
+  },
+  {
+    "id": "cadnd-212",
+    "imageRef": "cadnd-212_ca062_f02.png",
+    "label": "Aortic stenosis",
+    "category": "Physiology & Mechanisms",
+    "brick": "Aortic Stenosis"
+  },
+  {
+    "id": "cadnd-213",
+    "imageRef": "cadnd-213_ca063_f01.png",
+    "label": "Cardiac skeleton",
+    "category": "Gross Anatomy",
+    "brick": "Aortic Regurgitation and Pulmonary Valve Disease"
+  },
+  {
+    "id": "cadnd-214",
+    "imageRef": "cadnd-214_ca063_f02.png",
+    "label": "Aortic dissection",
+    "category": "Pathology",
+    "brick": "Aortic Regurgitation and Pulmonary Valve Disease"
+  },
+  {
+    "id": "cadnd-215",
+    "imageRef": "cadnd-215_ca064_f02.png",
+    "label": "Mitral valve",
+    "category": "Gross Anatomy",
+    "brick": "Mitral Stenosis"
+  },
+  {
+    "id": "cadnd-216",
+    "imageRef": "cadnd-216_ca065_f01.png",
+    "label": "Mitral valve",
+    "category": "Gross Anatomy",
+    "brick": "Mitral Regurgitation and Mitral Valve Prolapse"
+  },
+  {
+    "id": "cadnd-217",
+    "imageRef": "cadnd-217_ca065_f04.png",
+    "label": "Myxomatous degeneration",
+    "category": "Histology & Cell Biology",
+    "brick": "Mitral Regurgitation and Mitral Valve Prolapse"
+  },
+  {
+    "id": "cadnd-218",
+    "imageRef": "cadnd-218_ca065_f07.png",
+    "label": "MVP click",
+    "category": "Physiology & Mechanisms",
+    "brick": "Mitral Regurgitation and Mitral Valve Prolapse"
+  },
+  {
+    "id": "cadnd-219",
+    "imageRef": "cadnd-219_ca065_f08.png",
+    "label": "Mitral annuloplasty",
+    "category": "Gross Anatomy",
+    "brick": "Mitral Regurgitation and Mitral Valve Prolapse"
+  },
+  {
+    "id": "cadnd-220",
+    "imageRef": "cadnd-220_ca066_f01.png",
+    "label": "Tricuspid valve",
+    "category": "Gross Anatomy",
+    "brick": "Mitral Regurgitation and Mitral Valve Prolapse"
+  },
+  {
+    "id": "cadnd-221",
+    "imageRef": "cadnd-221_ca066_f02.png",
+    "label": "Mitral valve",
+    "category": "Gross Anatomy",
+    "brick": "Mitral Regurgitation and Mitral Valve Prolapse"
+  },
+  {
+    "id": "cadnd-222",
+    "imageRef": "cadnd-222_ca066_f03.png",
+    "label": "Ebstein anomaly",
+    "category": "Pathology",
+    "brick": "Mitral Regurgitation and Mitral Valve Prolapse"
+  },
+  {
+    "id": "cadnd-223",
+    "imageRef": "cadnd-223_ca067_f02.png",
+    "label": "Mitral valve",
+    "category": "Gross Anatomy",
+    "brick": "Mitral Stenosis"
+  },
+  {
+    "id": "cadnd-224",
+    "imageRef": "cadnd-224_ca067_f06.png",
+    "label": "Balloon commissurotomy",
+    "category": "Physiology & Mechanisms",
+    "brick": "Mitral Stenosis"
+  },
+  {
+    "id": "cadnd-225",
+    "imageRef": "cadnd-225_ca068_f02.png",
+    "label": "Tricuspid vegetation",
+    "category": "Lab & Diagnostics",
+    "brick": "Infective Endocarditis"
+  },
+  {
+    "id": "cadnd-226",
+    "imageRef": "cadnd-226_ca068_f03.png",
+    "label": "Cardioembolic stroke",
+    "category": "Physiology & Mechanisms",
+    "brick": "Infective Endocarditis"
+  },
+  {
+    "id": "cadnd-227",
+    "imageRef": "cadnd-227_ca070_f01.png",
+    "label": "Pericardium",
+    "category": "Gross Anatomy",
+    "brick": "Acute Pericarditis"
+  },
+  {
+    "id": "cadnd-228",
+    "imageRef": "cadnd-228_ca070_f02.png",
+    "label": "Normal pericardium",
+    "category": "Histology & Cell Biology",
+    "brick": "Acute Pericarditis"
+  },
+  {
+    "id": "cadnd-229",
+    "imageRef": "cadnd-229_ca070_f03.png",
+    "label": "Fibrinous pericarditis",
+    "category": "Pathology",
+    "brick": "Acute Pericarditis"
+  },
+  {
+    "id": "cadnd-230",
+    "imageRef": "cadnd-230_ca070_f04.png",
+    "label": "Purulent pericarditis",
+    "category": "Pathology",
+    "brick": "Acute Pericarditis"
+  },
+  {
+    "id": "cadnd-231",
+    "imageRef": "cadnd-231_ca070_f05.png",
+    "label": "Purulent pericarditis",
+    "category": "Histology & Cell Biology",
+    "brick": "Acute Pericarditis"
+  },
+  {
+    "id": "cadnd-232",
+    "imageRef": "cadnd-232_ca070_f07.png",
+    "label": "Pericardiocentesis",
+    "category": "Lab & Diagnostics",
+    "brick": "Acute Pericarditis"
+  },
+  {
+    "id": "cadnd-233",
+    "imageRef": "cadnd-233_ca072_f01.png",
+    "label": "Shock types",
+    "category": "Physiology & Mechanisms",
+    "brick": "Shock"
+  },
+  {
+    "id": "cadnd-234",
+    "imageRef": "cadnd-234_ca072_f03.png",
+    "label": "Hypovolemic shock",
+    "category": "Physiology & Mechanisms",
+    "brick": "Shock"
+  },
+  {
+    "id": "cadnd-235",
+    "imageRef": "cadnd-235_ca072_f04.png",
+    "label": "Neurogenic shock",
+    "category": "Physiology & Mechanisms",
+    "brick": "Shock"
+  },
+  {
+    "id": "cadnd-236",
+    "imageRef": "cadnd-236_ca074_f01.png",
+    "label": "Cardiac tamponade",
+    "category": "Physiology & Mechanisms",
+    "brick": "Pericardial Effusion and Cardiac Tamponade"
+  },
+  {
+    "id": "cadnd-237",
+    "imageRef": "cadnd-237_ca074_f03.png",
+    "label": "RV diastolic collapse",
+    "category": "Lab & Diagnostics",
+    "brick": "Pericardial Effusion and Cardiac Tamponade"
+  },
+  {
+    "id": "cadnd-238",
+    "imageRef": "cadnd-238_ca074_f04.png",
+    "label": "Pericardiocentesis",
+    "category": "Lab & Diagnostics",
+    "brick": "Pericardial Effusion and Cardiac Tamponade"
+  },
+  {
+    "id": "cadnd-239",
+    "imageRef": "cadnd-239_ca075_f02.png",
+    "label": "Valve vegetations",
+    "category": "Pathology",
+    "brick": "Nonbacterial Thrombotic Endocarditis"
+  },
+  {
+    "id": "cadnd-240",
+    "imageRef": "cadnd-240_ca075_f03.png",
+    "label": "Purulent pericarditis",
+    "category": "Pathology",
+    "brick": "Nonbacterial Thrombotic Endocarditis"
+  },
+  {
+    "id": "cadnd-241",
+    "imageRef": "cadnd-241_ca075_f04.png",
+    "label": "Pericarditis ECG",
+    "category": "Lab & Diagnostics",
+    "brick": "Nonbacterial Thrombotic Endocarditis"
+  },
+  {
+    "id": "cadnd-242",
+    "imageRef": "cadnd-242_ca076_f01.png",
+    "label": "Embryo",
+    "category": "Gross Anatomy",
+    "brick": "Management of Shock"
+  },
+  {
+    "id": "cadnd-243",
+    "imageRef": "cadnd-243_ca077_f01.png",
+    "label": "Cardiac tamponade",
+    "category": "Physiology & Mechanisms",
+    "brick": "Pericardial Effusion and Cardiac Tamponade"
+  },
+  {
+    "id": "cadnd-244",
+    "imageRef": "cadnd-244_ca077_f02.png",
+    "label": "Aortic arches",
+    "category": "Gross Anatomy",
+    "brick": "Pericardial Effusion and Cardiac Tamponade"
+  },
+  {
+    "id": "cadnd-245",
+    "imageRef": "cadnd-245_ca077_f03.png",
+    "label": "Aortic arch branches",
+    "category": "Gross Anatomy",
+    "brick": "Pericardial Effusion and Cardiac Tamponade"
+  },
+  {
+    "id": "cadnd-246",
+    "imageRef": "cadnd-246_ca078_f01.png",
+    "label": "Aortic coarctation",
+    "category": "Gross Anatomy",
+    "brick": "Coarctation of the Aorta"
+  },
+  {
+    "id": "cadnd-247",
+    "imageRef": "cadnd-247_ca078_f02.png",
+    "label": "Collateral circulation",
+    "category": "Gross Anatomy",
+    "brick": "Coarctation of the Aorta"
+  },
+  {
+    "id": "cadnd-248",
+    "imageRef": "cadnd-248_ca078_f04.png",
+    "label": "Aortic coarctation",
+    "category": "Lab & Diagnostics",
+    "brick": "Coarctation of the Aorta"
+  },
+  {
+    "id": "cadnd-249",
+    "imageRef": "cadnd-249_ca078_f05.png",
+    "label": "Stent placement",
+    "category": "Lab & Diagnostics",
+    "brick": "Coarctation of the Aorta"
+  },
+  {
+    "id": "cadnd-250",
+    "imageRef": "cadnd-250_ca078_f06.png",
+    "label": "Pulmonary stenosis",
+    "category": "Pathology",
+    "brick": "Coarctation of the Aorta"
+  },
+  {
+    "id": "cadnd-251",
+    "imageRef": "cadnd-251_ca078_f07.png",
+    "label": "Aortic stenosis",
+    "category": "Pathology",
+    "brick": "Coarctation of the Aorta"
+  },
+  {
+    "id": "cadnd-252",
+    "imageRef": "cadnd-252_ca079_f01.png",
+    "label": "Patent ductus arteriosus",
+    "category": "Physiology & Mechanisms",
+    "brick": "Patent Ductus Arteriosus"
+  },
+  {
+    "id": "cadnd-253",
+    "imageRef": "cadnd-253_ca079_f02.png",
+    "label": "Differential cyanosis",
+    "category": "Pathology",
+    "brick": "Patent Ductus Arteriosus"
+  },
+  {
+    "id": "cadnd-254",
+    "imageRef": "cadnd-254_ca079_f03.png",
+    "label": "Echocardiography",
+    "category": "Lab & Diagnostics",
+    "brick": "Patent Ductus Arteriosus"
+  },
+  {
+    "id": "cadnd-255",
+    "imageRef": "cadnd-255_ca079_f05.png",
+    "label": "Atrial septum formation",
+    "category": "Histology & Cell Biology",
+    "brick": "Patent Ductus Arteriosus"
+  },
+  {
+    "id": "cadnd-256",
+    "imageRef": "cadnd-256_ca079_f06.png",
+    "label": "Fixed splitting of S2",
+    "category": "Physiology & Mechanisms",
+    "brick": "Patent Ductus Arteriosus"
+  },
+  {
+    "id": "cadnd-257",
+    "imageRef": "cadnd-257_ca080_f02.png",
+    "label": "Digital clubbing",
+    "category": "Pathology",
+    "brick": "Tetralogy of Fallot"
+  },
+  {
+    "id": "cadnd-258",
+    "imageRef": "cadnd-258_ca080_f04.png",
+    "label": "Tetralogy of Fallot",
+    "category": "Lab & Diagnostics",
+    "brick": "Tetralogy of Fallot"
+  },
+  {
+    "id": "cadnd-259",
+    "imageRef": "cadnd-259_ca081_f02.png",
+    "label": "Valve vegetations",
+    "category": "Pathology",
+    "brick": "Nonbacterial Thrombotic Endocarditis"
+  },
+  {
+    "id": "cadnd-260",
+    "imageRef": "cadnd-260_ca082_f01.png",
+    "label": "Pericardium",
+    "category": "Gross Anatomy",
+    "brick": "Acute Pericarditis"
+  },
+  {
+    "id": "cadnd-261",
+    "imageRef": "cadnd-261_ca082_f02.png",
+    "label": "Fibrinous pericarditis",
+    "category": "Pathology",
+    "brick": "Acute Pericarditis"
+  },
+  {
+    "id": "cadnd-262",
+    "imageRef": "cadnd-262_ca082_f03.png",
+    "label": "Purulent pericarditis",
+    "category": "Pathology",
+    "brick": "Acute Pericarditis"
+  },
+  {
+    "id": "cadnd-263",
+    "imageRef": "cadnd-263_ca082_f04.png",
+    "label": "Purulent pericarditis",
+    "category": "Lab & Diagnostics",
+    "brick": "Acute Pericarditis"
+  }
+]
