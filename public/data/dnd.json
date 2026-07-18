@@ -5,6 +5,7 @@
     "label": "Pulsus paradoxus",
     "category": "Physiology & Mechanisms",
     "brick": "Constrictive Pericarditis",
+    "order": 10,
     "explanation": "The tracing shows pulsus paradoxus: systolic blood pressure drops during inspiration because a stiff pericardium enforces ventricular interdependence. Inspiration increases venous return and RV volume, bowing the interventricular septum into the LV and reducing LV filling and stroke volume, so systemic systolic pressure falls."
   },
   {
@@ -13,6 +14,7 @@
     "label": "Pericardiectomy",
     "category": "Gross Anatomy",
     "brick": "Constrictive Pericarditis",
+    "order": 10,
     "explanation": "The image shows pericardiectomy, surgical removal of the fibrotic, non-compliant pericardium. It is the definitive treatment for markedly symptomatic constrictive pericarditis, relieving the external constraint on ventricular filling, though operative mortality is relatively high."
   },
   {
@@ -21,6 +23,7 @@
     "label": "Pulmonary edema",
     "category": "Lab & Diagnostics",
     "brick": "Hemodynamic Monitoring in Shock",
+    "order": 11,
     "explanation": "The diffuse perihilar interstitial opacities represent pulmonary edema, which develops when elevated left-sided filling pressures (a high pulmonary capillary wedge pressure reflecting elevated left atrial pressure) force fluid into the alveoli. This is why IV fluids can worsen hypoxia in cardiogenic shock."
   },
   {
@@ -29,6 +32,7 @@
     "label": "Pericardium",
     "category": "Gross Anatomy",
     "brick": "Hemodynamic Monitoring in Shock",
+    "order": 11,
     "explanation": "The space labeled between the visceral (epicardial) and parietal pericardium is the pericardial cavity. When fluid there accumulates rapidly or in large volume it compresses the chambers and impairs filling, producing cardiac tamponade, a life-threatening cause of obstructive shock."
   },
   {
@@ -37,6 +41,7 @@
     "label": "Electrical alternans",
     "category": "Lab & Diagnostics",
     "brick": "Hemodynamic Monitoring in Shock",
+    "order": 11,
     "explanation": "The alternating high- and low-voltage QRS complexes are electrical alternans, produced by the swinging motion of the heart within a large fluid-filled pericardial sac. It is the most specific ECG finding for a large pericardial effusion causing tamponade."
   },
   {
@@ -45,6 +50,7 @@
     "label": "Pulmonary edema",
     "category": "Lab & Diagnostics",
     "brick": "Hemodynamic Monitoring in Shock",
+    "order": 12,
     "explanation": "The radiograph shows engorged central pulmonary vessels and hazy interstitial markings characteristic of pulmonary edema. In a shock patient, radiographic pulmonary edema with hypoxia signals fluid overload, so IV fluids should be withheld rather than given."
   },
   {
@@ -53,6 +59,7 @@
     "label": "Electrical alternans",
     "category": "Lab & Diagnostics",
     "brick": "Pericardial Effusion and Cardiac Tamponade",
+    "order": 13,
     "explanation": "Electrical alternans is produced by the beat-to-beat 'swinging' of the heart as it moves back and forth within a large effusion, changing the QRS vector relative to the ECG electrodes. It is seen in a minority of tamponade patients and, with low-voltage QRS, suggests a large effusion."
   },
   {
@@ -61,6 +68,7 @@
     "label": "RV diastolic collapse",
     "category": "Lab & Diagnostics",
     "brick": "Pericardial Effusion and Cardiac Tamponade",
+    "order": 13,
     "explanation": "Diastolic collapse of the low-pressure right ventricular free wall indicates that intrapericardial pressure is transiently exceeding RV filling pressure, an early echocardiographic sign of cardiac tamponade. The right-sided chambers collapse first because they operate at the lowest pressures."
   },
   {
@@ -69,6 +77,7 @@
     "label": "Pericardiocentesis",
     "category": "Lab & Diagnostics",
     "brick": "Pericardial Effusion and Cardiac Tamponade",
+    "order": 13,
     "explanation": "Pericardiocentesis is percutaneous needle aspiration of fluid from the pericardial space, typically via a subxiphoid approach with a 16-18 gauge needle. It is the treatment of choice for relieving hemodynamic compromise in cardiac tamponade."
   },
   {
@@ -77,6 +86,7 @@
     "label": "Aortic arch",
     "category": "Gross Anatomy",
     "brick": "Aortic Arch Anatomy",
+    "order": 14,
     "explanation": "On the left, the common carotid and subclavian arteries arise separately and directly from the aortic arch, unlike the right side where a brachiocephalic trunk first divides into the right subclavian and right common carotid arteries. This asymmetry reflects the differing embryologic remodeling of the aortic arches."
   },
   {
@@ -85,6 +95,7 @@
     "label": "Embryo",
     "category": "Gross Anatomy",
     "brick": "Aortic Arch Anatomy",
+    "order": 14,
     "explanation": "The pharyngeal (branchial) arches shown remodel to form the great arteries and other structures of the head, neck, and thorax. Somites, the heart bulge, lens placode, and otic placode are also visible, marking key landmarks of the developing embryo."
   },
   {
@@ -93,6 +104,7 @@
     "label": "Aortic arch development",
     "category": "Physiology & Mechanisms",
     "brick": "Aortic Arch Anatomy",
+    "order": 14,
     "explanation": "The sixth aortic arches give rise to the pulmonary arteries; on the left, the distal segment persists as the ductus arteriosus, whereas on the right this distal portion regresses. This asymmetry also explains the differing courses of the right and left recurrent laryngeal nerves."
   },
   {
@@ -101,6 +113,7 @@
     "label": "Aortic coarctation",
     "category": "Gross Anatomy",
     "brick": "Obstructive Congenital Heart Defects",
+    "order": 16,
     "explanation": "Coarctation of the aorta is a stricture of the aortic lumen most often located in the descending aorta just distal to the left subclavian artery, near the attachment of the ligamentum arteriosum (the remnant of the fetal ductus arteriosus)."
   },
   {
@@ -109,6 +122,7 @@
     "label": "Cyanosis",
     "category": "Pathology",
     "brick": "Obstructive Congenital Heart Defects",
+    "order": 16,
     "explanation": "Cyanosis is the bluish discoloration seen when the level of deoxygenated hemoglobin rises (roughly above 5 g/dL). In right-to-left shunting cyanotic CHDs, poorly oxygenated blood reaches the systemic circulation, producing peripheral and central cyanosis."
   },
   {
@@ -117,6 +131,7 @@
     "label": "Tet spell",
     "category": "Physiology & Mechanisms",
     "brick": "Obstructive Congenital Heart Defects",
+    "order": 16,
     "explanation": "Squatting kinks the femoral arteries and increases systemic (arterial) vascular resistance. This raises left-sided pressures, reducing the right-to-left shunt across the VSD so that more deoxygenated blood is directed through the pulmonary valve to be oxygenated, easing the tet spell."
   },
   {
@@ -125,6 +140,7 @@
     "label": "Differential cyanosis",
     "category": "Physiology & Mechanisms",
     "brick": "Acyanotic Congenital Heart Defects",
+    "order": 17,
     "explanation": "In Eisenmenger physiology the reversed PDA shunt delivers deoxygenated blood to the descending aorta beyond the arch vessels, so the legs appear cyanotic (differential cyanosis) while the upper body remains pink."
   },
   {
@@ -133,6 +149,7 @@
     "label": "PDA echocardiography",
     "category": "Lab & Diagnostics",
     "brick": "Acyanotic Congenital Heart Defects",
+    "order": 17,
     "explanation": "The high pressure gradient from aorta to pulmonary artery accelerates flow through the duct; the resulting turbulence exceeds the Nyquist limit and appears as a mosaic of aliased colors on Doppler."
   },
   {
@@ -141,6 +158,7 @@
     "label": "Atrial septal defect",
     "category": "Physiology & Mechanisms",
     "brick": "Acyanotic Congenital Heart Defects",
+    "order": 17,
     "explanation": "Because the left atrium operates at higher pressure than the right, an interatrial communication produces a left-to-right shunt, increasing pulmonary blood flow."
   },
   {
@@ -149,6 +167,7 @@
     "label": "Atrial septation",
     "category": "Physiology & Mechanisms",
     "brick": "Acyanotic Congenital Heart Defects",
+    "order": 17,
     "explanation": "Persistence of the ostium primum from incomplete fusion of the septum primum with the endocardial cushions yields a primum ASD, located low in the atrial septum."
   },
   {
@@ -157,6 +176,7 @@
     "label": "Interventricular septum",
     "category": "Physiology & Mechanisms",
     "brick": "Acyanotic Congenital Heart Defects",
+    "order": 17,
     "explanation": "The membranous IV septum completes when the muscular septum, the endocardial cushions, and the aorticopulmonary (conotruncal) septum meet; failure of this fusion is the most common cause of a VSD."
   },
   {
@@ -165,6 +185,7 @@
     "label": "VSD oxygenation",
     "category": "Physiology & Mechanisms",
     "brick": "Acyanotic Congenital Heart Defects",
+    "order": 17,
     "explanation": "Oxygenated LV blood crosses the VSD into the RV, raising RV oxygen saturation (an oxygen 'step-up') detectable on catheterization."
   },
   {
@@ -173,6 +194,7 @@
     "label": "Cyanosis",
     "category": "Pathology",
     "brick": "Cyanotic Congenital Heart Defects",
+    "order": 18,
     "explanation": "Cyanosis becomes visible when the absolute amount of reduced (deoxygenated) hemoglobin in the blood rises above roughly 5 g/dL, which occurs when a right-to-left shunt allows deoxygenated blood to bypass the lungs and enter the systemic circulation."
   },
   {
@@ -181,6 +203,7 @@
     "label": "Overriding aorta",
     "category": "Lab & Diagnostics",
     "brick": "Cyanotic Congenital Heart Defects",
+    "order": 18,
     "explanation": "The echo demonstrates the overriding aorta and ventricular septal defect that are two of the four components of tetralogy of Fallot; the other two, pulmonary valve stenosis and RV hypertrophy, complete the tetrad."
   },
   {
@@ -189,6 +212,7 @@
     "label": "Tricuspid atresia",
     "category": "Lab & Diagnostics",
     "brick": "Cyanotic Congenital Heart Defects",
+    "order": 18,
     "explanation": "Absence of the tricuspid valve prevents RA-to-RV filling, so the RV receives little blood and becomes hypoplastic while the RA enlarges, the imaging hallmark of tricuspid atresia."
   },
   {
@@ -197,6 +221,7 @@
     "label": "Truncus arteriosus",
     "category": "Physiology & Mechanisms",
     "brick": "Cyanotic Congenital Heart Defects",
+    "order": 18,
     "explanation": "Normally the truncoconal septum spirals down to separate the aorta from the pulmonary trunk; when this division fails, a single truncal vessel overrides both ventricles, defining persistent truncus arteriosus."
   },
   {
@@ -205,6 +230,7 @@
     "label": "Angiotensin II",
     "category": "Physiology & Mechanisms",
     "brick": "Blood Pressure Control: Foundations and Frameworks",
+    "order": 19,
     "explanation": "The hormone shown branching to vasoconstriction, aldosterone secretion, ADH release, and renal sodium/water reabsorption is angiotensin II, the central effector of the renin-angiotensin-aldosterone system. Its combined actions raise both systemic vascular resistance and blood volume, thereby increasing blood pressure. The natriuretic peptides and baroreceptor reflex oppose or acutely buffer pressure rather than producing this coordinated pressor response."
   },
   {
@@ -213,6 +239,7 @@
     "label": "Aortic stenosis",
     "category": "Pathology",
     "brick": "Aortic Stenosis",
+    "order": 1,
     "explanation": "In older adults the most common cause of aortic stenosis is age-related calcific (degenerative) change, which scars and stiffens the leaflets so they can no longer open fully. Rheumatic disease and congenital bicuspid valves are less common causes and produce different morphology."
   },
   {
@@ -221,6 +248,7 @@
     "label": "Bicuspid aortic valve",
     "category": "Gross Anatomy",
     "brick": "Aortic Stenosis",
+    "order": 1,
     "explanation": "The valve on the right is a bicuspid aortic valve (two cusps instead of three). Abnormal leaflet mechanics accelerate calcification, so these patients typically develop aortic stenosis decades earlier than those with a normal tricuspid valve."
   },
   {
@@ -229,6 +257,7 @@
     "label": "Pressure-volume loop",
     "category": "Physiology & Mechanisms",
     "brick": "Aortic Stenosis",
+    "order": 1,
     "explanation": "The stenotic valve forces the ventricle to generate very high systolic pressures (making the loop tall), while the obstruction and increased end-systolic volume reduce the width of the loop, which represents stroke volume. This tall, thin shape distinguishes AS from other valvular lesions."
   },
   {
@@ -237,6 +266,7 @@
     "label": "Left ventricular hypertrophy",
     "category": "Pathology",
     "brick": "Aortic Stenosis",
+    "order": 1,
     "explanation": "Chronic pressure overload causes concentric left ventricular hypertrophy. The thick, stiff wall cannot relax and fill normally, so the ventricle develops diastolic (nonsystolic) dysfunction, reducing end-diastolic volume and stroke volume."
   },
   {
@@ -245,6 +275,7 @@
     "label": "Systolic murmur",
     "category": "Physiology & Mechanisms",
     "brick": "Aortic Stenosis",
+    "order": 1,
     "explanation": "The AS murmur occurs between S1 and S2 (systole) and rises then falls in intensity as flow across the valve peaks in mid-systole, giving the crescendo-decrescendo shape. This contrasts with the plateau holosystolic murmur of mitral regurgitation shown below."
   },
   {
@@ -253,6 +284,7 @@
     "label": "Cardiac CT",
     "category": "Lab & Diagnostics",
     "brick": "Aortic Stenosis",
+    "order": 1,
     "explanation": "On CT, calcium is markedly hyperdense (bright white). Cardiac CT is used to evaluate aortic stenosis because it clearly demonstrates the extent of valvular and root calcification, along with coronary anatomy (RCA, LCX, LAD)."
   },
   {
@@ -261,6 +293,7 @@
     "label": "Baroreceptor firing",
     "category": "Physiology & Mechanisms",
     "brick": "Baroreceptor Regulation of Blood Pressure",
+    "order": 20,
     "explanation": "As mean arterial pressure increases from low to high (top to bottom rows), the green firing markers become progressively denser, showing that greater arterial stretch drives a higher baroreceptor firing rate on a beat-to-beat basis. This graded, pressure-dependent firing is what allows the reflex to sense both increases and decreases in blood pressure."
   },
   {
@@ -269,6 +302,7 @@
     "label": "Reflex mechanism",
     "category": "Physiology & Mechanisms",
     "brick": "Baroreceptor Regulation of Blood Pressure",
+    "order": 20,
     "explanation": "When blood pressure falls, arterial stretch and carotid sinus nerve firing decrease. Because this afferent signal normally restrains the medullary sympathetic centers, its reduction disinhibits sympathetic outflow while lowering parasympathetic activity, raising heart rate, contractility, and vascular resistance to restore blood pressure toward normal."
   },
   {
@@ -277,6 +311,7 @@
     "label": "Bradykinin",
     "category": "Physiology & Mechanisms",
     "brick": "Humoral Regulation of Blood Pressure",
+    "order": 21,
     "explanation": "The diagram depicts bradykinin synthesis: kallikrein cleaves kininogen to yield bradykinin, causing vasodilatation. Like histamine, bradykinin is released mainly by mast cells and basophils during inflammation. Endothelial cells release NO and endothelin, atrial cardiomyocytes release ANP, and the posterior pituitary releases ADH."
   },
   {
@@ -285,6 +320,7 @@
     "label": "Sphygmomanometry",
     "category": "Lab & Diagnostics",
     "brick": "Hemodynamics: Blood Pressure",
+    "order": 22,
     "explanation": "The sphygmomanometer cuff is inflated above systolic pressure to occlude the brachial artery; as it deflates, turbulent flow through the partially compressed artery produces Korotkoff sounds. The first sound marks systolic pressure and their disappearance marks diastolic pressure."
   },
   {
@@ -293,6 +329,7 @@
     "label": "Incisura",
     "category": "Physiology & Mechanisms",
     "brick": "Hemodynamics: Blood Pressure",
+    "order": 22,
     "explanation": "The incisura (dicrotic notch) on the arterial waveform reflects aortic valve closure at the end of systole, briefly interrupting the pressure decline and separating systolic from diastolic phases; the following dicrotic wave results from brief backward flow against the closed valve."
   },
   {
@@ -301,6 +338,7 @@
     "label": "Hydrostatic pressure",
     "category": "Physiology & Mechanisms",
     "brick": "Hemodynamics: Blood Pressure",
+    "order": 22,
     "explanation": "In the upright position gravity pulls blood toward the feet, adding a hydrostatic pressure column so both arterial and venous pressures in the dependent legs increase; the driving gradient between arteries and veins nonetheless stays roughly constant at 85-95 mmHg."
   },
   {
@@ -309,6 +347,7 @@
     "label": "Vascular compliance",
     "category": "Physiology & Mechanisms",
     "brick": "Hemodynamics: Blood Pressure",
+    "order": 22,
     "explanation": "Compliance is volume change divided by pressure change. Panel A shows zero compliance (stiff, noncompliant), panel B shows infinite compliance (large volume change, no pressure change), and panel C shows finite compliance typical of most real vessels where both pressure and volume increase."
   },
   {
@@ -317,6 +356,7 @@
     "label": "Venous compliance",
     "category": "Physiology & Mechanisms",
     "brick": "Hemodynamics: Blood Pressure",
+    "order": 22,
     "explanation": "At low pressures the floppy vena cava is highly compliant and rounds out as it fills; once fully distended its elastic fibers are maximally stretched, so additional volume produces large pressure rises and compliance falls, giving the plateau. The aorta, with thicker muscular walls, is far less compliant throughout."
   },
   {
@@ -325,6 +365,7 @@
     "label": "Arterial wall",
     "category": "Histology & Cell Biology",
     "brick": "Hemodynamics: Blood Pressure",
+    "order": 22,
     "explanation": "The internal and external elastic membranes and abundant elastin allow large arteries to stretch as blood is ejected in systole and recoil in diastole, sustaining pressure between beats; collagen provides tensile strength and smooth muscle adjusts tone, but elastic tissue drives the reversible expansion."
   },
   {
@@ -333,6 +374,7 @@
     "label": "Elastic recoil",
     "category": "Physiology & Mechanisms",
     "brick": "Hemodynamics: Blood Pressure",
+    "order": 22,
     "explanation": "During systole the aorta stretches to accommodate the stroke volume; when the aortic valve closes in diastole, the elastic aorta recoils inward, maintaining the ~80 mmHg diastolic pressure and driving blood onward to the systemic circulation even though the ventricle is not ejecting."
   },
   {
@@ -341,6 +383,7 @@
     "label": "Artery vs vein",
     "category": "Histology & Cell Biology",
     "brick": "Hemodynamics: Blood Pressure",
+    "order": 22,
     "explanation": "Arteries are exposed to high pressures and large radii, so by the law of Laplace they experience high wall tension and require thick walls rich in elastin and collagen; veins operate at low pressure and thus have thin, less muscular walls, giving the collapsed, thin-walled appearance seen here."
   },
   {
@@ -349,6 +392,7 @@
     "label": "Microcirculation",
     "category": "Physiology & Mechanisms",
     "brick": "Starling Forces",
+    "order": 23,
     "explanation": "The blind-ended lymphatic capillary collects the small excess of filtered fluid and proteins not reabsorbed at the venular end, returning them to the venous circulation and preventing interstitial fluid accumulation (edema)."
   },
   {
@@ -357,6 +401,7 @@
     "label": "Fluid compartments",
     "category": "Physiology & Mechanisms",
     "brick": "Starling Forces",
+    "order": 23,
     "explanation": "Extracellular fluid comprises plasma (intravascular) and interstitial fluid; these are separated by the capillary wall. The cell membrane instead separates extracellular from intracellular fluid."
   },
   {
@@ -365,6 +410,7 @@
     "label": "Capillary pressure",
     "category": "Physiology & Mechanisms",
     "brick": "Starling Forces",
+    "order": 23,
     "explanation": "At the arteriolar end, high capillary hydrostatic pressure outweighs the relatively constant oncotic pressure, driving fluid out (filtration); pressure falls toward the venular end, where reabsorption dominates."
   },
   {
@@ -373,6 +419,7 @@
     "label": "Starling forces",
     "category": "Physiology & Mechanisms",
     "brick": "Starling Forces",
+    "order": 23,
     "explanation": "Because hydrostatic pressure falls below the roughly constant oncotic pressure toward the venular end, the balance of Starling forces favors reabsorption of fluid back into the capillary."
   },
   {
@@ -381,6 +428,7 @@
     "label": "Capillary types",
     "category": "Histology & Cell Biology",
     "brick": "Starling Forces",
+    "order": 23,
     "explanation": "Discontinuous (sinusoidal) capillaries have large gaps in their wall, making them highly permeable; they are found where large substances and cells must cross, such as liver, spleen, and bone marrow."
   },
   {
@@ -389,6 +437,7 @@
     "label": "Distal capillary",
     "category": "Physiology & Mechanisms",
     "brick": "Starling Forces",
+    "order": 23,
     "explanation": "At the distal capillary the capillary oncotic pressure exceeds the reduced hydrostatic pressure, so the net Starling force draws fluid back into the vessel (reabsorption)."
   },
   {
@@ -397,6 +446,7 @@
     "label": "Pitting edema",
     "category": "Pathology",
     "brick": "Starling Forces",
+    "order": 23,
     "explanation": "A pit that persists after pressure indicates displaceable interstitial fluid (pitting edema), typically from raised capillary hydrostatic pressure or reduced oncotic pressure, as in heart failure or nephrotic syndrome."
   },
   {
@@ -405,6 +455,7 @@
     "label": "Active hyperemia",
     "category": "Physiology & Mechanisms",
     "brick": "Local Control of the Microcirculation",
+    "order": 24,
     "explanation": "Active (functional) hyperemia results from metabolites such as CO2, H+, adenosine, and K+ accumulating during increased activity, which dilate local vessels and raise flow to match demand."
   },
   {
@@ -413,6 +464,7 @@
     "label": "Reactive hyperemia",
     "category": "Physiology & Mechanisms",
     "brick": "Local Control of the Microcirculation",
+    "order": 24,
     "explanation": "During occlusion, metabolites build up and cannot be washed away; on reperfusion these dilators cause blood flow to transiently exceed baseline (reactive hyperemia)."
   },
   {
@@ -421,6 +473,7 @@
     "label": "Paracrine factors",
     "category": "Physiology & Mechanisms",
     "brick": "Local Control of the Microcirculation",
+    "order": 24,
     "explanation": "The endothelium releases both dilators (NO, EDHF, PGI2) and constrictors; endothelin-1 is the potent vasoconstrictor, promoting smooth muscle contraction while the others favor relaxation."
   },
   {
@@ -429,6 +482,7 @@
     "label": "Nitric oxide pathway",
     "category": "Physiology & Mechanisms",
     "brick": "Local Control of the Microcirculation",
+    "order": 24,
     "explanation": "Nitric oxide activates guanylyl cyclase, raising cGMP, which lowers intracellular calcium and activates myosin light chain phosphatase to relax vascular smooth muscle."
   },
   {
@@ -437,6 +491,7 @@
     "label": "Epinephrine vs norepinephrine",
     "category": "Physiology & Mechanisms",
     "brick": "Local Control of the Microcirculation",
+    "order": 24,
     "explanation": "At physiologic levels epinephrine engages beta-2 receptors causing skeletal muscle vasodilation, which counterbalances its alpha-mediated pressor action; norepinephrine acts mainly on alpha-1, so it raises MAP and triggers reflex bradycardia."
   },
   {
@@ -445,6 +500,7 @@
     "label": "Trendelenburg position",
     "category": "Physiology & Mechanisms",
     "brick": "Hypotension",
+    "order": 25,
     "explanation": "Tilting the patient head-down (legs elevated) uses gravity to redistribute pooled venous blood from the lower extremities toward the central circulation, transiently increasing venous return, preload, stroke volume, and thus cardiac output and blood pressure."
   },
   {
@@ -453,6 +509,7 @@
     "label": "Sinus bradycardia",
     "category": "Lab & Diagnostics",
     "brick": "Sinus Bradycardia and Tachycardia",
+    "order": 26,
     "explanation": "A slow rate with an upright P wave preceding every QRS in a 1:1 fashion and normal PR interval indicates the impulse still originates in the SA node, defining sinus bradycardia rather than a junctional, blocked, or ectopic rhythm."
   },
   {
@@ -461,6 +518,7 @@
     "label": "R-R method",
     "category": "Lab & Diagnostics",
     "brick": "Sinus Bradycardia and Tachycardia",
+    "order": 26,
     "explanation": "The precise R-R small-box method divides 1500 (small boxes per minute at 25 mm/s) by the number of small boxes between consecutive R waves to yield beats per minute."
   },
   {
@@ -469,6 +527,7 @@
     "label": "Sinus tachycardia",
     "category": "Lab & Diagnostics",
     "brick": "Sinus Bradycardia and Tachycardia",
+    "order": 26,
     "explanation": "A fast but regular rhythm with a normal P wave before each QRS and a constant PR interval indicates the SA node is simply firing faster, defining sinus tachycardia rather than a reentrant or ectopic tachyarrhythmia."
   },
   {
@@ -477,6 +536,7 @@
     "label": "Arteriolosclerosis",
     "category": "Pathology",
     "brick": "Hypertension: Foundations and Frameworks",
+    "order": 27,
     "explanation": "Chronic benign hypertension drives leakage of plasma proteins into the arteriolar wall, producing a homogeneous, glassy (hyaline) thickening that narrows the lumen. This reduces downstream perfusion and contributes to nephrosclerosis. It is distinct from the concentric 'onion-skin' hyperplastic arteriolosclerosis of severe/malignant hypertension."
   },
   {
@@ -485,6 +545,7 @@
     "label": "Hypertension classification",
     "category": "Pathology",
     "brick": "Primary (Essential) Hypertension",
+    "order": 28,
     "explanation": "The diagram splits hypertension into primary (90-95%, cause unknown) and secondary (5-10%, identifiable cause such as renovascular or endocrine disease). Primary aldosteronism is an identifiable endocrine cause, so it produces secondary hypertension."
   },
   {
@@ -493,6 +554,7 @@
     "label": "Fibromuscular dysplasia",
     "category": "Pathology",
     "brick": "Secondary Hypertension",
+    "order": 29,
     "explanation": "The artery depicts fibromuscular dysplasia, a non-inflammatory, non-atherosclerotic disease that classically affects young women without cardiovascular risk factors and is a leading cause of secondary hypertension from renal artery stenosis in this group."
   },
   {
@@ -501,6 +563,7 @@
     "label": "Renal artery stenosis",
     "category": "Lab & Diagnostics",
     "brick": "Secondary Hypertension",
+    "order": 29,
     "explanation": "In older patients, especially those with diabetes and other atherosclerotic risk factors, renal artery stenosis is usually caused by atherosclerotic plaque near the ostium, reducing renal blood flow and activating the RAAS to cause secondary hypertension."
   },
   {
@@ -509,6 +572,7 @@
     "label": "Fibromuscular dysplasia",
     "category": "Lab & Diagnostics",
     "brick": "Secondary Hypertension",
+    "order": 29,
     "explanation": "The alternating stenosis and aneurysmal dilation producing a 'string of beads' pattern is the classic angiographic hallmark of fibromuscular dysplasia, most often seen in young women and a treatable cause of secondary hypertension."
   },
   {
@@ -517,6 +581,7 @@
     "label": "Cardiac valves",
     "category": "Gross Anatomy",
     "brick": "Aortic Regurgitation and Pulmonary Valve Disease",
+    "order": 2,
     "explanation": "A short-axis section at the level of the valves shows the dense fibrous cardiac skeleton, a ring of connective tissue that surrounds and anchors all four valve annuli and electrically insulates the atria from the ventricles."
   },
   {
@@ -525,6 +590,7 @@
     "label": "Frank-Starling curve",
     "category": "Physiology & Mechanisms",
     "brick": "Aortic Regurgitation and Pulmonary Valve Disease",
+    "order": 2,
     "explanation": "The rising limb reflects the Frank-Starling mechanism, where greater preload increases stroke volume. Past the peak, excessive end-diastolic volume overstretches sarcomeres beyond optimal filament overlap, so stroke volume falls and the heart decompensates."
   },
   {
@@ -533,6 +599,7 @@
     "label": "Cardiac remodeling",
     "category": "Physiology & Mechanisms",
     "brick": "Aortic Regurgitation and Pulmonary Valve Disease",
+    "order": 2,
     "explanation": "By the Law of Laplace, pressure overload raises wall stress and drives sarcomeres to be added in parallel, thickening the wall (concentric hypertrophy). Volume overload adds sarcomeres in series, dilating the chamber (eccentric hypertrophy)."
   },
   {
@@ -541,6 +608,7 @@
     "label": "Aortic regurgitation murmur",
     "category": "Lab & Diagnostics",
     "brick": "Aortic Regurgitation and Pulmonary Valve Disease",
+    "order": 2,
     "explanation": "Aortic regurgitation produces a soft, high-pitched early diastolic decrescendo murmur that begins right after S2, when the aortic-to-LV pressure gradient is greatest and then falls. Mitral stenosis instead gives a mid-to-late diastolic rumble."
   },
   {
@@ -549,6 +617,7 @@
     "label": "Pulmonary stenosis",
     "category": "Pathology",
     "brick": "Aortic Regurgitation and Pulmonary Valve Disease",
+    "order": 2,
     "explanation": "Congenital pulmonary stenosis most often arises from a bicuspid pulmonary valve with fused commissures, producing a domed, stenotic valve and a hypoplastic annulus. This obstructs RV outflow into the pulmonary artery."
   },
   {
@@ -557,6 +626,7 @@
     "label": "Onion skinning",
     "category": "Pathology",
     "brick": "Hypertensive Emergency",
+    "order": 30,
     "explanation": "Prolonged severe hypertension drives concentric layering of proliferating smooth muscle and reduplicated basement membrane (hyperplastic arteriolosclerosis, 'onion skinning'), narrowing the lumen and causing downstream ischemia."
   },
   {
@@ -565,6 +635,7 @@
     "label": "Papilledema",
     "category": "Lab & Diagnostics",
     "brick": "Hypertensive Emergency",
+    "order": 30,
     "explanation": "The bulging disc with blurred margins and engorged veins is papilledema, reflecting elevated intracranial pressure from cerebral edema in hypertensive emergency, not an arterial occlusion, diabetic, detachment, or atrophic process."
   },
   {
@@ -573,6 +644,7 @@
     "label": "Vessel tunicae",
     "category": "Histology & Cell Biology",
     "brick": "Histology of Blood Vessels and Lymphatics",
+    "order": 31,
     "explanation": "The prominent wavy line between the tunica intima and tunica media is the internal elastic lamina, a sheet of elastic tissue that appears crimped in fixed sections."
   },
   {
@@ -581,6 +653,7 @@
     "label": "Aorta",
     "category": "Histology & Cell Biology",
     "brick": "Histology of Blood Vessels and Lymphatics",
+    "order": 31,
     "explanation": "The aorta is an elastic artery whose tunica media is packed with elastin, letting it stretch under the systolic surge and recoil during diastole to smooth blood flow."
   },
   {
@@ -589,6 +662,7 @@
     "label": "Aortic elastin",
     "category": "Histology & Cell Biology",
     "brick": "Histology of Blood Vessels and Lymphatics",
+    "order": 31,
     "explanation": "An elastin (elastic) stain darkens the dense, wavy elastic lamellae of the aortic media, illustrating the high elastin content characteristic of elastic arteries."
   },
   {
@@ -597,6 +671,7 @@
     "label": "Arteriole",
     "category": "Histology & Cell Biology",
     "brick": "Histology of Blood Vessels and Lymphatics",
+    "order": 31,
     "explanation": "Arterioles are the smallest arteries; they have proportionally thicker muscular walls than the thin-walled venules, though they lack an external elastic lamina and often have an incomplete internal elastic lamina."
   },
   {
@@ -605,6 +680,7 @@
     "label": "Fenestrated capillary",
     "category": "Histology & Cell Biology",
     "brick": "Histology of Blood Vessels and Lymphatics",
+    "order": 31,
     "explanation": "Fenestrated capillaries have pores (fenestrae) in the endothelium over an intact basement membrane, allowing greater transit of fluid and molecules; they populate the glomeruli, intestines, and endocrine glands."
   },
   {
@@ -613,6 +689,7 @@
     "label": "Lymphatic capillaries",
     "category": "Physiology & Mechanisms",
     "brick": "Histology of Blood Vessels and Lymphatics",
+    "order": 31,
     "explanation": "The green network represents lymphatic capillaries, which take up protein-rich fluid that filters out of blood capillaries into the interstitium and return it, also sampling antigens for immune surveillance."
   },
   {
@@ -621,6 +698,7 @@
     "label": "Thoracic aortic aneurysm",
     "category": "Physiology & Mechanisms",
     "brick": "Aortic Aneurysm",
+    "order": 32,
     "explanation": "Dilation at the aortic root pulls the aortic valve leaflets apart, causing aortic regurgitation, which is heard as a high-pitched, blowing, decrescendo diastolic murmur."
   },
   {
@@ -629,6 +707,7 @@
     "label": "Blue toe syndrome",
     "category": "Physiology & Mechanisms",
     "brick": "Aortic Aneurysm",
+    "order": 32,
     "explanation": "Turbulent flow in an aneurysm promotes mural thrombus, fragments of which can embolize distally to small digital vessels, producing blue toe syndrome with preserved proximal pulses."
   },
   {
@@ -637,6 +716,7 @@
     "label": "AAA palpation",
     "category": "Lab & Diagnostics",
     "brick": "Aortic Aneurysm",
+    "order": 32,
     "explanation": "A pulsatile, expansile mass palpated above the umbilicus suggests an AAA; below that level the aorta has bifurcated into the common iliac arteries."
   },
   {
@@ -645,6 +725,7 @@
     "label": "AAA ultrasound",
     "category": "Lab & Diagnostics",
     "brick": "Aortic Aneurysm",
+    "order": 32,
     "explanation": "In an unstable, hypotensive patient, point-of-care ultrasound rapidly confirms an aneurysm at the bedside, avoiding the risk of transporting the patient to the radiology department."
   },
   {
@@ -653,6 +734,7 @@
     "label": "CT angiography",
     "category": "Lab & Diagnostics",
     "brick": "Aortic Aneurysm",
+    "order": 32,
     "explanation": "CT angiography provides the detailed anatomy needed for pre-operative planning in stable patients; the hypotensive patient is more safely evaluated with bedside ultrasound."
   },
   {
@@ -661,6 +743,7 @@
     "label": "Mediastinal widening",
     "category": "Lab & Diagnostics",
     "brick": "Aortic Aneurysm",
+    "order": 32,
     "explanation": "A thoracic aortic aneurysm may show mediastinal widening on X-ray and can compress the recurrent laryngeal nerve, causing hoarseness, or compress the trachea/esophagus."
   },
   {
@@ -669,6 +752,7 @@
     "label": "Popliteal aneurysm",
     "category": "Physiology & Mechanisms",
     "brick": "Aortic Aneurysm",
+    "order": 32,
     "explanation": "Popliteal aneurysms rarely rupture; instead their major complications are thrombosis occluding the artery or serving as a source of atheroemboli, causing distal leg ischemia."
   },
   {
@@ -677,6 +761,7 @@
     "label": "Mycotic aneurysm",
     "category": "Lab & Diagnostics",
     "brick": "Aortic Aneurysm",
+    "order": 32,
     "explanation": "Periaortic inflammation with gas points to an infected (mycotic) aneurysm; these are rare but life-threatening and require prompt antibiotics plus surgical resection."
   },
   {
@@ -685,6 +770,7 @@
     "label": "Aortic dissection",
     "category": "Gross Anatomy",
     "brick": "Aortic Dissection",
+    "order": 33,
     "explanation": "The left diagram is a Stanford type A dissection (involving the ascending aorta), which is more dangerous and requires immediate surgical intervention. The right (type B) dissection, which spares the ascending aorta, is generally managed medically."
   },
   {
@@ -693,6 +779,7 @@
     "label": "Aortic dissection",
     "category": "Physiology & Mechanisms",
     "brick": "Aortic Dissection",
+    "order": 33,
     "explanation": "Blood enters via a tear in the tunica intima and dissects into the tunica media, creating a false lumen (a parallel channel) that can enlarge and occlude flow. The hematoma is contained by the outer tunica adventitia."
   },
   {
@@ -701,6 +788,7 @@
     "label": "Aortic dissection",
     "category": "Lab & Diagnostics",
     "brick": "Aortic Dissection",
+    "order": 33,
     "explanation": "The CT angiogram shows an intimal flap separating a true and false lumen, which is diagnostic of aortic dissection. CT angiography is the preferred imaging modality in hemodynamically stable patients."
   },
   {
@@ -709,6 +797,7 @@
     "label": "Transesophageal echocardiogram",
     "category": "Lab & Diagnostics",
     "brick": "Aortic Dissection",
+    "order": 33,
     "explanation": "This is a transesophageal echocardiogram (TEE), preferred in hemodynamically unstable patients because it can be performed rapidly at the bedside and clearly demonstrates the intimal flap separating the true and false lumen."
   },
   {
@@ -717,6 +806,7 @@
     "label": "Saddle nose",
     "category": "Pathology",
     "brick": "Small-Vessel Vasculitis",
+    "order": 34,
     "explanation": "Necrotizing granulomatous inflammation of the upper respiratory tract in GPA destroys the nasal cartilage, causing the bridge to collapse into a saddle-nose deformity. This upper-airway destruction is far more characteristic of GPA than of the other small-vessel vasculitides."
   },
   {
@@ -725,6 +815,7 @@
     "label": "Cavitary lung lesion",
     "category": "Pathology",
     "brick": "Small-Vessel Vasculitis",
+    "order": 34,
     "explanation": "GPA is defined histologically by necrotizing granulomas with giant cells and granulomatous vasculitis, most prominent in the lungs, producing large nodular cavitary (necrotic) lesions. MPA and EGPA lack the granulomatous cavitary lung disease seen here."
   },
   {
@@ -733,6 +824,7 @@
     "label": "Palpable purpura",
     "category": "Pathology",
     "brick": "Small-Vessel Vasculitis",
+    "order": 34,
     "explanation": "Palpable purpura arises when inflammatory injury to cutaneous small vessels allows blood to leak (extravasate) into the dermis, producing raised, non-blanching purple lesions. It is a shared, non-specific marker of small-vessel inflammatory injury rather than of thrombosis or pigment change."
   },
   {
@@ -741,6 +833,7 @@
     "label": "Purpuric rash",
     "category": "Pathology",
     "brick": "Small-Vessel Vasculitis",
+    "order": 34,
     "explanation": "IgA vasculitis (formerly Henoch-Schonlein purpura) is the most common vasculitis of children and classically presents with dependent purpura on the legs and buttocks, abdominal pain, arthritis, and glomerulonephritis from IgA immune-complex deposition. The other listed diseases rarely present this way in children."
   },
   {
@@ -749,6 +842,7 @@
     "label": "Temporal artery",
     "category": "Pathology",
     "brick": "Large-Vessel Vasculitis",
+    "order": 35,
     "explanation": "A palpable, thickened, nodular, tender superficial temporal artery in an older patient with new headache, scalp tenderness, and jaw claudication is the classic presentation of giant cell (temporal) arteritis. Takayasu affects the aorta and its branches in younger women; the others target different vessel beds and populations."
   },
   {
@@ -757,6 +851,7 @@
     "label": "Giant cell arteritis",
     "category": "Histology & Cell Biology",
     "brick": "Large-Vessel Vasculitis",
+    "order": 35,
     "explanation": "The classic histologic picture of giant cell arteritis is a transmural inflammatory infiltrate of lymphocytes and macrophages with multinucleated giant cells involving all layers of the wall, producing intimal thickening and luminal narrowing. Isolated single-layer involvement is not characteristic."
   },
   {
@@ -765,6 +860,7 @@
     "label": "Carotid artery branches",
     "category": "Gross Anatomy",
     "brick": "Large-Vessel Vasculitis",
+    "order": 35,
     "explanation": "In GCA, ischemia from vasculitis occludes the posterior ciliary branches of the ophthalmic artery (which arises from the internal carotid), causing anterior ischemic optic neuropathy and irreversible blindness. This is why steroids are started before biopsy results return."
   },
   {
@@ -773,6 +869,7 @@
     "label": "Halo sign",
     "category": "Lab & Diagnostics",
     "brick": "Large-Vessel Vasculitis",
+    "order": 35,
     "explanation": "The halo sign is a hypoechoic rim around the lumen produced by inflammatory wall thickening and edema, a supportive imaging finding for GCA (sensitivity ~87%, specificity ~96%). It reflects mural inflammation, not calcium, thrombus, or infection."
   },
   {
@@ -781,6 +878,7 @@
     "label": "Takayasu arteritis",
     "category": "Pathology",
     "brick": "Large-Vessel Vasculitis",
+    "order": 35,
     "explanation": "In Takayasu arteritis, inflammatory destruction of the elastic and muscular components of the wall weakens it, leading to aneurysmal dilation (as well as stenosis and occlusion). The other processes are not consequences of this transmural inflammatory destruction."
   },
   {
@@ -789,6 +887,7 @@
     "label": "Macaroni sign",
     "category": "Lab & Diagnostics",
     "brick": "Large-Vessel Vasculitis",
+    "order": 35,
     "explanation": "Takayasu arteritis produces long, smooth, tapered segments of stenosis (the 'macaroni sign'), often with an undulating pattern. Atherosclerotic stenosis is instead nonhomogeneous, irregular, and involves shorter segments; the string-of-beads pattern typifies fibromuscular dysplasia."
   },
   {
@@ -797,6 +896,7 @@
     "label": "Strawberry tongue",
     "category": "Pathology",
     "brick": "Medium-Vessel Vasculitis",
+    "order": 36,
     "explanation": "The bright red, bumpy tongue is the strawberry tongue (glossitis) of Kawasaki disease. Untreated Kawasaki disease is the leading cause of acquired heart disease in children because of coronary artery aneurysm formation, which can lead to thrombosis and myocardial infarction."
   },
   {
@@ -805,6 +905,7 @@
     "label": "Kawasaki rash",
     "category": "Pathology",
     "brick": "Medium-Vessel Vasculitis",
+    "order": 36,
     "explanation": "This maculopapular rash on the trunk is a skin manifestation of Kawasaki disease. Management is directed at reducing cardiac complications, and IVIG combined with high-dose aspirin is the first-line therapy."
   },
   {
@@ -813,6 +914,7 @@
     "label": "Palmar erythema",
     "category": "Pathology",
     "brick": "Medium-Vessel Vasculitis",
+    "order": 36,
     "explanation": "Erythema of the palms and soles is one of the diagnostic skin manifestations of Kawasaki disease, a medium-vessel vasculitis of young children."
   },
   {
@@ -821,6 +923,7 @@
     "label": "Fibrinoid necrosis",
     "category": "Pathology",
     "brick": "Medium-Vessel Vasculitis",
+    "order": 36,
     "explanation": "The bright-pink fibrinoid necrosis of the vessel wall with perivascular inflammation is characteristic of polyarteritis nodosa (PAN), which is associated with hepatitis B infection in roughly 30% of cases."
   },
   {
@@ -829,6 +932,7 @@
     "label": "PAN artery",
     "category": "Pathology",
     "brick": "Medium-Vessel Vasculitis",
+    "order": 36,
     "explanation": "Polyarteritis nodosa diffusely affects medium vessels but characteristically spares the lungs, an important feature distinguishing it from small-vessel vasculitides such as granulomatosis with polyangiitis."
   },
   {
@@ -837,6 +941,7 @@
     "label": "Beads on a string",
     "category": "Lab & Diagnostics",
     "brick": "Medium-Vessel Vasculitis",
+    "order": 36,
     "explanation": "PAN is a segmental disease with alternating aneurysms and strictures. The 'beads' on angiography are small arterial microaneurysms, a characteristic diagnostic finding."
   },
   {
@@ -845,6 +950,7 @@
     "label": "Thromboangiitis obliterans",
     "category": "Pathology",
     "brick": "Medium-Vessel Vasculitis",
+    "order": 36,
     "explanation": "A highly cellular, inflammatory luminal thrombus with relative sparing of the vessel wall distinguishes thromboangiitis obliterans (Buerger disease) from other vasculitides."
   },
   {
@@ -853,6 +959,7 @@
     "label": "Coronary arteries",
     "category": "Gross Anatomy",
     "brick": "Coronary Blood Flow and Vascular Physiology",
+    "order": 37,
     "explanation": "The vessel shown running down the anterior interventricular groove is the left anterior descending (LAD) artery, a branch of the left main coronary artery. It supplies the anterior LV wall and most of the interventricular septum, so its occlusion produces an anterior/anteroseptal infarct."
   },
   {
@@ -861,6 +968,7 @@
     "label": "Coronary blood flow",
     "category": "Physiology & Mechanisms",
     "brick": "Coronary Blood Flow and Vascular Physiology",
+    "order": 37,
     "explanation": "During systole the ventricular muscle contracts intensely and squeezes the intramural and subendocardial vessels, greatly raising vascular resistance and nearly occluding flow. Coronary flow therefore peaks in early diastole when compression is relieved."
   },
   {
@@ -869,6 +977,7 @@
     "label": "Arterial narrowing",
     "category": "Pathology",
     "brick": "Atherosclerosis",
+    "order": 38,
     "explanation": "The lower panel depicts plaque buildup that narrows the arterial lumen. This restriction decreases downstream blood flow and perfusion, producing ischemia in the tissue supplied."
   },
   {
@@ -877,6 +986,7 @@
     "label": "Atheroma formation",
     "category": "Physiology & Mechanisms",
     "brick": "Atherosclerosis",
+    "order": 38,
     "explanation": "After endothelial injury, LDL enters the intima and becomes oxidized. Macrophages phagocytose this oxidized LDL and become lipid-laden foam cells, the hallmark of the early atheroma."
   },
   {
@@ -885,6 +995,7 @@
     "label": "Atherosclerotic plaque",
     "category": "Pathology",
     "brick": "Atherosclerosis",
+    "order": 38,
     "explanation": "The fibrous cap separates thrombogenic lipid core material from the blood. Cap rupture exposes collagen and lipid, triggering platelet aggregation and thrombus formation that can acutely occlude the vessel and cause infarction."
   },
   {
@@ -893,6 +1004,7 @@
     "label": "Aorta",
     "category": "Pathology",
     "brick": "Atherosclerosis",
+    "order": 38,
     "explanation": "The raised, lipid-rich intimal lesions are atherosclerotic plaques. Advanced (complicated) plaques may ulcerate and develop overlying thrombus, as seen in the more severely diseased segment."
   },
   {
@@ -901,6 +1013,7 @@
     "label": "Atheroma progression",
     "category": "Physiology & Mechanisms",
     "brick": "Atherosclerosis",
+    "order": 38,
     "explanation": "Progression through endothelial dysfunction, fatty streak, and fibrous plaque formation narrows the lumen and stiffens the wall, progressively reducing blood flow to distal tissues."
   },
   {
@@ -909,6 +1022,7 @@
     "label": "Retinal artery occlusion",
     "category": "Lab & Diagnostics",
     "brick": "Arterial Emboli",
+    "order": 39,
     "explanation": "A pale, edematous retina with a cherry-red macula and cotton-wool spots on funduscopy is the classic picture of central retinal artery occlusion from an embolus, in which the thin foveal retina still perfused by the choroid appears red against the surrounding ischemic pallor."
   },
   {
@@ -917,6 +1031,7 @@
     "label": "Renal emboli",
     "category": "Lab & Diagnostics",
     "brick": "Arterial Emboli",
+    "order": 39,
     "explanation": "CT angiography is the imaging modality of choice for arterial thromboembolism: injected contrast opacifies patent branches so that occlusions (here, bilateral renal artery emboli marked by arrows) are seen as filling defects, revealing both location and degree of obstruction."
   },
   {
@@ -925,6 +1040,7 @@
     "label": "Mitral regurgitation",
     "category": "Physiology & Mechanisms",
     "brick": "Acute Rheumatic Fever and Rheumatic Heart Disease",
+    "order": 3,
     "explanation": "Mitral regurgitation results from incomplete leaflet coaptation during systole, so blood regurgitates from the left ventricle back into the left atrium, as shown by the jet in the right panel."
   },
   {
@@ -933,6 +1049,7 @@
     "label": "Infective endocarditis",
     "category": "Pathology",
     "brick": "Acute Rheumatic Fever and Rheumatic Heart Disease",
+    "order": 3,
     "explanation": "Irregular, friable masses along the leaflet closure line are vegetations of infective endocarditis, composed of fibrin, platelets, and microorganisms, which can destroy leaflet tissue and cause acute regurgitation."
   },
   {
@@ -941,6 +1058,7 @@
     "label": "Mitral valve",
     "category": "Pathology",
     "brick": "Acute Rheumatic Fever and Rheumatic Heart Disease",
+    "order": 3,
     "explanation": "Excess spongiosa (myxomatous) connective tissue thickens and enlarges the leaflets, weakening the chordae and widening the annulus, producing mitral valve prolapse and regurgitation."
   },
   {
@@ -949,6 +1067,7 @@
     "label": "Atherosclerotic plaque",
     "category": "Pathology",
     "brick": "Carotid Stenosis",
+    "order": 40,
     "explanation": "The specimen demonstrates a large atherosclerotic plaque at the carotid bifurcation, the classic site of carotid stenosis. Lipid-laden plaque encroaches on the lumen and can ulcerate to shed emboli."
   },
   {
@@ -957,6 +1076,7 @@
     "label": "Embolic stroke",
     "category": "Physiology & Mechanisms",
     "brick": "Carotid Stenosis",
+    "order": 40,
     "explanation": "The image depicts an embolus arising from a ruptured carotid plaque that travels downstream to occlude an intracranial branch, the dominant mechanism of stroke in carotid disease."
   },
   {
@@ -965,6 +1085,7 @@
     "label": "MCA infarct",
     "category": "Lab & Diagnostics",
     "brick": "Carotid Stenosis",
+    "order": 40,
     "explanation": "Loss of gray-white differentiation and hypodensity mark an evolving ischemic infarct; here an embolus of carotid origin has occluded the right middle cerebral artery. Hemorrhage would appear hyperdense (bright)."
   },
   {
@@ -973,6 +1094,7 @@
     "label": "Carotid endarterectomy",
     "category": "Gross Anatomy",
     "brick": "Carotid Stenosis",
+    "order": 40,
     "explanation": "Endarterectomy removes the atheromatous plaque and inner arterial layer through an open arteriotomy, directly relieving high-grade stenosis in symptomatic patients."
   },
   {
@@ -981,6 +1103,7 @@
     "label": "Stenosed vessel",
     "category": "Physiology & Mechanisms",
     "brick": "Peripheral Arterial Disease",
+    "order": 42,
     "explanation": "The stenosis produces turbulent flow and increased frictional shear that damage endothelial cells; dysfunctional endothelium releases cytokines and reactive oxygen species, raising oxidative stress and accelerating atherosclerosis and further obstruction, as contrasted with the smooth laminar flow and matched oxygen supply-demand of the normal vessel above."
   },
   {
@@ -989,6 +1112,7 @@
     "label": "Ankle-brachial index",
     "category": "Lab & Diagnostics",
     "brick": "Peripheral Arterial Disease",
+    "order": 42,
     "explanation": "Dividing the systolic pressure at the ankle by the systolic pressure at the brachial artery gives the ankle-brachial index (ABI). Normally ankle pressure exceeds brachial pressure; in PAD ankle pressure falls, lowering the ratio, with values under 1.0 abnormal and under 0.4 indicating severe disease."
   },
   {
@@ -997,6 +1121,7 @@
     "label": "Muscle wasting",
     "category": "Pathology",
     "brick": "Peripheral Arterial Disease",
+    "order": 42,
     "explanation": "Chronic limb ischemia limits oxygen delivery to muscle, producing wasting (atrophy) along with shiny skin, hair loss, and brittle nails. The thinned, tapered calves shown reflect loss of muscle mass rather than the swelling seen in edema, cellulitis, lymphedema, or DVT."
   },
   {
@@ -1005,6 +1130,7 @@
     "label": "Buerger test",
     "category": "Lab & Diagnostics",
     "brick": "Peripheral Arterial Disease",
+    "order": 42,
     "explanation": "A healthy leg stays pink even at 90 degrees, but in PAD the leg blanches at a lower angle because gravity overcomes the compromised arterial pressure; the more severe the disease, the smaller the vascular angle at which pallor appears (as low as 15 degrees)."
   },
   {
@@ -1013,6 +1139,7 @@
     "label": "Angioplasty",
     "category": "Physiology & Mechanisms",
     "brick": "Peripheral Arterial Disease",
+    "order": 42,
     "explanation": "The mesh scaffold deployed in the final panel is a stent, placed after balloon angioplasty to hold the widened artery open. Most modern percutaneous transluminal angioplasty procedures for occlusions proximal to the knee involve stent placement."
   },
   {
@@ -1021,6 +1148,7 @@
     "label": "Vein graft bypass",
     "category": "Physiology & Mechanisms",
     "brick": "Peripheral Arterial Disease",
+    "order": 42,
     "explanation": "A bypass uses a harvested vein (or prosthetic) graft attached proximal and distal to the occlusion so blood detours around the blocked segment, restoring perfusion. This differs from endarterectomy, angioplasty, filtering, or thrombolysis."
   },
   {
@@ -1029,6 +1157,7 @@
     "label": "Coronary CT angiogram",
     "category": "Lab & Diagnostics",
     "brick": "Angina Pectoris",
+    "order": 43,
     "explanation": "Coronary CT angiography is a sensitive noninvasive test for coronary artery occlusion. The arrow marks a focal narrowing (stenosis) of the LAD lumen; a positive scan is typically confirmed with functional testing or invasive angiography before intervention."
   },
   {
@@ -1037,6 +1166,7 @@
     "label": "Ischemic injury",
     "category": "Pathology",
     "brick": "Myocardial Infarction",
+    "order": 44,
     "explanation": "In the first several hours after an MI there are no visible gross changes. TTC is reduced by intact dehydrogenase enzymes in viable myocardium to a brick-red color, so infarcted tissue that has lost these enzymes remains pale/unstained, allowing early infarcts to be demonstrated."
   },
   {
@@ -1045,6 +1175,7 @@
     "label": "Neutrophilic infiltrate",
     "category": "Pathology",
     "brick": "Myocardial Infarction",
+    "order": 44,
     "explanation": "The dense neutrophilic infiltrate seen here is characteristic of the 1-3 day window after an MI. Neutrophils arrive to clear debris left behind by the dead myocytes, while coagulative necrosis (bright pink cells retaining outlines but lacking nuclei) is still present."
   },
   {
@@ -1053,6 +1184,7 @@
     "label": "Mature scar",
     "category": "Pathology",
     "brick": "Myocardial Infarction",
+    "order": 44,
     "explanation": "The mature scar is composed of dense layers of collagen laid down by fibroblasts. Unlike myocardium it neither contracts nor conducts electricity, which produces chronic ECG abnormalities (e.g., pathologic Q waves) and reduced contractile function."
   },
   {
@@ -1061,6 +1193,7 @@
     "label": "Cardiac biomarkers",
     "category": "Lab & Diagnostics",
     "brick": "Myocardial Infarction",
+    "order": 44,
     "explanation": "Cardiac biomarkers such as troponin and CK-MB become detectable roughly 4-6 hours after MI onset. Because a test may therefore be falsely negative on early arrival at the ER, the ECG remains the best initial test and serial biomarker testing is required."
   },
   {
@@ -1069,6 +1202,7 @@
     "label": "Cardiac myofilament",
     "category": "Physiology & Mechanisms",
     "brick": "Myocardial Infarction",
+    "order": 44,
     "explanation": "Calcium binding to troponin C alters the troponin complex, causing tropomyosin to move and uncover the myosin-binding sites on actin. This allows the myosin heads of the thick filament to cross-bridge with the thin filament and generate contraction."
   },
   {
@@ -1077,6 +1211,7 @@
     "label": "Contraction band necrosis",
     "category": "Pathology",
     "brick": "Myocardial Infarction",
+    "order": 44,
     "explanation": "When an infarcted vessel is reopened, an influx of calcium into damaged, reperfused myocytes causes uncontrolled hypercontraction of the muscle fibers. This forms the thick eosinophilic contraction bands (about 4-5 micrometers wide) that span the short axis of the myocyte, a hallmark of reperfusion injury."
   },
   {
@@ -1085,6 +1220,7 @@
     "label": "Action potential",
     "category": "Physiology & Mechanisms",
     "brick": "ST Segment Changes",
+    "order": 45,
     "explanation": "The highlighted band marks phase 2 (plateau) of the ventricular action potential, which underlies the isoelectric ST segment. During the plateau, L-type calcium channel influx roughly balances potassium efflux, keeping the membrane potential near a plateau and producing no net deflection on the ECG."
   },
   {
@@ -1093,6 +1229,7 @@
     "label": "Ischemic injury",
     "category": "Pathology",
     "brick": "ST Segment Changes",
+    "order": 45,
     "explanation": "The subendocardium is farthest from the epicardial coronary supply and endures the highest wall stress, making it the most vulnerable layer and the first affected. Injury limited to it (illustration A) causes ST depression, whereas transmural injury extending to the epicardium (illustration B) causes ST elevation."
   },
   {
@@ -1101,6 +1238,7 @@
     "label": "Coronary arteries",
     "category": "Gross Anatomy",
     "brick": "ST Segment Changes",
+    "order": 45,
     "explanation": "In most hearts the right coronary artery supplies the inferior and posterior walls of the left ventricle as well as the right ventricle, which is why inferior infarcts are typically attributed to RCA occlusion. The LAD supplies the anterior wall and the circumflex the lateral wall."
   },
   {
@@ -1109,6 +1247,7 @@
     "label": "Anterolateral STEMI",
     "category": "Lab & Diagnostics",
     "brick": "ST Segment Changes",
+    "order": 45,
     "explanation": "ST elevation across the precordial leads with lateral involvement (I, aVL) defines an anterolateral injury pattern, which corresponds to the left coronary system, chiefly the LAD and its branches. RCA occlusion instead produces inferior (II, III, aVF) changes."
   },
   {
@@ -1117,6 +1256,7 @@
     "label": "Inferior MI",
     "category": "Lab & Diagnostics",
     "brick": "ST Segment Changes",
+    "order": 45,
     "explanation": "ST elevation in the inferior lead group (II, III, aVF) with reciprocal ST depression in aVL localizes the injury to the inferior wall, most often from right coronary artery occlusion. Anterior injury would elevate the precordial leads instead."
   },
   {
@@ -1125,6 +1265,7 @@
     "label": "Posterior leads",
     "category": "Lab & Diagnostics",
     "brick": "ST Segment Changes",
+    "order": 45,
     "explanation": "Leads V7-V9 are placed around the left posterior thorax to record directly over the posterior left ventricle, where standard leads show only subtle reciprocal changes. They are used to confirm acute posterior infarction, often from right coronary or left circumflex territory occlusion."
   },
   {
@@ -1133,6 +1274,7 @@
     "label": "Platelet activation",
     "category": "Pharmacology",
     "brick": "Treatment of Acute Coronary Syndrome",
+    "order": 46,
     "explanation": "The GP IIb/IIIa receptor binds fibrinogen to cross-link adjacent platelets, the final common pathway of aggregation; agents such as abciximab, eptifibatide, and tirofiban block it. Aspirin acts upstream on COX/thromboxane, and clopidogrel/ticagrelor act on the P2Y12 ADP receptor."
   },
   {
@@ -1141,6 +1283,7 @@
     "label": "Coronary angiogram",
     "category": "Lab & Diagnostics",
     "brick": "Treatment of Acute Coronary Syndrome",
+    "order": 46,
     "explanation": "The arrow marks an abrupt termination of the contrast column with no distal filling, indicating total occlusion of the right coronary artery causing the inferior STEMI. Panel B shows restored antegrade contrast (normal perfusion) after percutaneous coronary intervention."
   },
   {
@@ -1149,6 +1292,7 @@
     "label": "Embolus",
     "category": "Physiology & Mechanisms",
     "brick": "Deep Vein Thrombosis",
+    "order": 47,
     "explanation": "The traveling fragment is a thromboembolus; once dislodged it flows until it wedges in and obstructs a smaller downstream vessel, the defining mechanism of embolic injury."
   },
   {
@@ -1157,6 +1301,7 @@
     "label": "Pulmonary embolism",
     "category": "Physiology & Mechanisms",
     "brick": "Deep Vein Thrombosis",
+    "order": 47,
     "explanation": "The diagram traces a leg clot to the pulmonary arteries; obstruction there blocks perfusion of the lungs and impairs gas exchange, the hallmark of pulmonary embolism."
   },
   {
@@ -1165,6 +1310,7 @@
     "label": "DVT",
     "category": "Pathology",
     "brick": "Deep Vein Thrombosis",
+    "order": 47,
     "explanation": "Unilateral limb swelling with erythema and a larger circumference on the affected side is the classic clinical presentation of deep vein thrombosis."
   },
   {
@@ -1173,6 +1319,7 @@
     "label": "Virchow triad",
     "category": "Physiology & Mechanisms",
     "brick": "Deep Vein Thrombosis",
+    "order": 47,
     "explanation": "Endothelial injury, hypercoagulability, and abnormal blood flow (stasis) together constitute Virchow triad, the classic framework for thrombogenesis."
   },
   {
@@ -1181,6 +1328,7 @@
     "label": "Turbulent flow",
     "category": "Physiology & Mechanisms",
     "brick": "Deep Vein Thrombosis",
+    "order": 47,
     "explanation": "Turbulent (disorganized) flow lets platelets and clotting factors move toward and interact with the vessel wall, promoting thrombus formation, unlike smooth laminar flow."
   },
   {
@@ -1189,6 +1337,7 @@
     "label": "Phlegmasia cerulea dolens",
     "category": "Pathology",
     "brick": "Deep Vein Thrombosis",
+    "order": 47,
     "explanation": "Massive proximal (iliofemoral) venous outflow obstruction produces severe edema and cyanosis of the limb, defining phlegmasia cerulea dolens, a surgical emergency."
   },
   {
@@ -1197,6 +1346,7 @@
     "label": "D-dimer",
     "category": "Lab & Diagnostics",
     "brick": "Deep Vein Thrombosis",
+    "order": 47,
     "explanation": "D-dimer, a fibrin degradation product, is elevated in many conditions; it is sensitive but not specific, so a normal value helps rule out DVT while an elevation is nonspecific."
   },
   {
@@ -1205,6 +1355,7 @@
     "label": "Compression ultrasound",
     "category": "Lab & Diagnostics",
     "brick": "Deep Vein Thrombosis",
+    "order": 47,
     "explanation": "A normal vein collapses with compression; a vein that stays open when pressure is applied signals an intraluminal clot, the diagnostic finding for DVT on compression ultrasonography."
   },
   {
@@ -1213,6 +1364,7 @@
     "label": "Pneumatic compression",
     "category": "Physiology & Mechanisms",
     "brick": "Deep Vein Thrombosis",
+    "order": 47,
     "explanation": "Mechanical (intermittent pneumatic) compression devices squeeze the limb to enhance venous return and counter stasis, offering DVT prophylaxis when anticoagulants are contraindicated."
   },
   {
@@ -1221,6 +1373,7 @@
     "label": "Coagulation cascade",
     "category": "Physiology & Mechanisms",
     "brick": "DOACs",
+    "order": 48,
     "explanation": "The diagram shows the intrinsic and extrinsic pathways converging on factor Xa in the common pathway. DOACs directly inhibit factor Xa, which reduces the conversion of prothrombin (factor II) to thrombin, thereby preventing fibrin formation and clot propagation."
   },
   {
@@ -1229,6 +1382,7 @@
     "label": "Varicose veins",
     "category": "Pathology",
     "brick": "Superficial Venous Disease",
+    "order": 49,
     "explanation": "Varicose veins result from failure (incompetence) of the one-way venous valves, allowing blood to flow backward and pool, which dilates and distends the superficial veins into the characteristic tortuous appearance."
   },
   {
@@ -1237,6 +1391,7 @@
     "label": "Varicose veins",
     "category": "Gross Anatomy",
     "brick": "Superficial Venous Disease",
+    "order": 49,
     "explanation": "Varicose veins are dilated, tortuous veins of the superficial venous system, which lies above the deep fascia. Valvular incompetence in these superficial veins causes them to become engorged and visibly tortuous."
   },
   {
@@ -1245,6 +1400,7 @@
     "label": "Mitral valve",
     "category": "Gross Anatomy",
     "brick": "Mitral Regurgitation and Mitral Valve Prolapse",
+    "order": 4,
     "explanation": "The chordae tendineae and papillary muscles keep the leaflets from flipping back into the left atrium during systole; loss of that competence allows systolic backflow, i.e. mitral regurgitation."
   },
   {
@@ -1253,6 +1409,7 @@
     "label": "Chordae rupture",
     "category": "Pathology",
     "brick": "Mitral Regurgitation and Mitral Valve Prolapse",
+    "order": 4,
     "explanation": "Rupture of the chordae tendineae or a papillary muscle lets a leaflet flail into the left atrium, producing sudden severe regurgitation into a non-compliant LA and flash pulmonary edema."
   },
   {
@@ -1261,6 +1418,7 @@
     "label": "Leaflet tethering",
     "category": "Physiology & Mechanisms",
     "brick": "Mitral Regurgitation and Mitral Valve Prolapse",
+    "order": 4,
     "explanation": "Ventricular dilation displaces the papillary muscles outward and downward, tethering the leaflets so they cannot coapt; this functional/ischemic MR occurs with structurally normal leaflets."
   },
   {
@@ -1269,6 +1427,7 @@
     "label": "Myxomatous degeneration",
     "category": "Histology & Cell Biology",
     "brick": "Mitral Regurgitation and Mitral Valve Prolapse",
+    "order": 4,
     "explanation": "Myxomatous degeneration expands the spongiosa with proteoglycans, weakening the leaflet and chordae so the valve becomes floppy and bulges into the LA during systole (mitral valve prolapse)."
   },
   {
@@ -1277,6 +1436,7 @@
     "label": "Infective endocarditis",
     "category": "Pathology",
     "brick": "Mitral Regurgitation and Mitral Valve Prolapse",
+    "order": 4,
     "explanation": "Friable vegetations composed of organisms, fibrin, and inflammatory cells on the leaflet margins are the hallmark of infective endocarditis, which can destroy leaflet tissue and cause acute MR."
   },
   {
@@ -1285,6 +1445,7 @@
     "label": "Mitral valve repair",
     "category": "Gross Anatomy",
     "brick": "Mitral Regurgitation and Mitral Valve Prolapse",
+    "order": 4,
     "explanation": "Annuloplasty ring repair or prosthetic valve replacement restores leaflet coaptation and is the definitive treatment for symptomatic severe mitral regurgitation."
   },
   {
@@ -1293,6 +1454,7 @@
     "label": "Cardiac action potential",
     "category": "Physiology & Mechanisms",
     "brick": "Arrhythmias: Pathophysiology and Diagnosis",
+    "order": 50,
     "explanation": "The plateau of the cardiac action potential reflects a balance in which inward L-type Ca2+ current offsets outward K+ currents, sustaining depolarization. Fast Na+ current drives phase 0, K+ efflux dominates phase 3 repolarization, and If pacemaker current operates in nodal cells."
   },
   {
@@ -1301,6 +1463,7 @@
     "label": "Afterdepolarizations",
     "category": "Physiology & Mechanisms",
     "brick": "Arrhythmias: Pathophysiology and Diagnosis",
+    "order": 50,
     "explanation": "The top tracing depicts an early afterdepolarization (EAD), which arises from a prolonged plateau and is favored by QT-prolonging states such as hypokalemia and drug-induced long QT. The lower tracing is a delayed afterdepolarization (DAD), classically caused by intracellular calcium overload (e.g., digoxin toxicity)."
   },
   {
@@ -1309,6 +1472,7 @@
     "label": "AVNRT",
     "category": "Physiology & Mechanisms",
     "brick": "Arrhythmias: Pathophysiology and Diagnosis",
+    "order": 50,
     "explanation": "AV nodal reentry begins when a premature beat finds the fast pathway still refractory, so it conducts anterogradely down the slow pathway. By the time it reaches the distal node the fast pathway has recovered, allowing retrograde conduction and establishment of a reentrant loop."
   },
   {
@@ -1317,6 +1481,7 @@
     "label": "Cardiac action potential",
     "category": "Physiology & Mechanisms",
     "brick": "Antiarrhythmic Agents: Class I Drugs",
+    "order": 51,
     "explanation": "During Phase 2, inward Ca2+ current through L-type calcium channels is offset by outward K+ current, holding the membrane at a plateau and prolonging the effective refractory period."
   },
   {
@@ -1325,6 +1490,7 @@
     "label": "Sodium channel states",
     "category": "Physiology & Mechanisms",
     "brick": "Antiarrhythmic Agents: Class I Drugs",
+    "order": 51,
     "explanation": "Class I drugs preferentially bind channels that are open or inactivated (states favored at fast heart rates), so blockade increases with rate, the basis of use-dependence."
   },
   {
@@ -1333,6 +1499,7 @@
     "label": "Class IA effect",
     "category": "Pharmacology",
     "brick": "Antiarrhythmic Agents: Class I Drugs",
+    "order": 51,
     "explanation": "Class IA agents block Na+ (slowing phase 0) and K+ channels (delaying phase 3), lengthening action potential duration and repolarization, which prolongs the QT interval and predisposes to torsades de pointes."
   },
   {
@@ -1341,6 +1508,7 @@
     "label": "Torsades de pointes",
     "category": "Lab & Diagnostics",
     "brick": "Antiarrhythmic Agents: Class I Drugs",
+    "order": 51,
     "explanation": "The strip shows polymorphic ventricular tachycardia with QRS complexes that twist around the baseline, the hallmark of torsades de pointes, a complication of QT prolongation."
   },
   {
@@ -1349,6 +1517,7 @@
     "label": "Class IB effect",
     "category": "Pharmacology",
     "brick": "Antiarrhythmic Agents: Class I Drugs",
+    "order": 51,
     "explanation": "Class IB drugs (e.g., lidocaine) are selective for inactivated Na+ channels, which are abundant in depolarized ischemic myocardium, making them drugs of choice for ventricular arrhythmias after MI."
   },
   {
@@ -1357,6 +1526,7 @@
     "label": "Class IC effect",
     "category": "Pharmacology",
     "brick": "Antiarrhythmic Agents: Class I Drugs",
+    "order": 51,
     "explanation": "Class IC drugs strongly slow phase 0 (conduction velocity) without altering repolarization, so the QRS widens markedly while the QT interval stays essentially unchanged."
   },
   {
@@ -1365,6 +1535,7 @@
     "label": "Sinus bradycardia",
     "category": "Lab & Diagnostics",
     "brick": "Sinus Bradycardia and Related Disorders",
+    "order": 52,
     "explanation": "A regular rhythm below 60 bpm with a normal P wave preceding each QRS (normal PR interval and axis) indicates the impulse originates from the SA node at a slow rate, defining sinus bradycardia. A junctional rhythm would lack normal preceding P waves, and atrial fibrillation would be irregular with no discrete P waves."
   },
   {
@@ -1373,6 +1544,7 @@
     "label": "Sinus pause",
     "category": "Physiology & Mechanisms",
     "brick": "Sinus Bradycardia and Related Disorders",
+    "order": 52,
     "explanation": "A sinus pause is an abrupt cessation of SA node automaticity, producing a flat line with no P waves or QRS complexes until pacemaker activity resumes. It reflects sinoatrial node dysfunction rather than AV conduction block, in which P waves would continue but fail to conduct."
   },
   {
@@ -1381,6 +1553,7 @@
     "label": "Junctional escape rhythm",
     "category": "Lab & Diagnostics",
     "brick": "Sinus Bradycardia and Related Disorders",
+    "order": 52,
     "explanation": "When the SA node fails or is severely slowed, the AV junction acts as a subsidiary pacemaker firing at ~40-60 bpm. Because impulses travel down the normal His-Purkinje system the QRS is narrow, and P waves are absent (or inverted near the QRS) because there is no normal atrial depolarization from the SA node."
   },
   {
@@ -1389,6 +1562,7 @@
     "label": "Pacemaker action potential",
     "category": "Physiology & Mechanisms",
     "brick": "Antiarrhythmic Agents: Classes II-IV",
+    "order": 53,
     "explanation": "Only nodal (pacemaker) cells lack a true resting potential and undergo automatic phase 4 depolarization driven by the funny current (If) through HCN channels, followed by a calcium-dependent phase 0 (ICa) and potassium-dependent phase 3 (IK). Working myocytes and Purkinje fibers have a stable resting potential and a fast Na+-dependent upstroke."
   },
   {
@@ -1397,6 +1571,7 @@
     "label": "Beta-blocker effect",
     "category": "Physiology & Mechanisms",
     "brick": "Antiarrhythmic Agents: Classes II-IV",
+    "order": 53,
     "explanation": "Class II antiarrhythmics (beta-blockers) inhibit sympathetic beta-1 stimulation of nodal cells, flattening the slope of phase 4 depolarization. This slows the firing rate of the SA node and conduction through the AV node, producing bradycardia and a prolonged PR interval."
   },
   {
@@ -1405,6 +1580,7 @@
     "label": "Calcium-blocker effect",
     "category": "Physiology & Mechanisms",
     "brick": "Antiarrhythmic Agents: Classes II-IV",
+    "order": 53,
     "explanation": "Nodal cells depend on L-type calcium influx for their phase 0 upstroke. Class IV agents (verapamil, diltiazem) block these L-type calcium channels, slowing depolarization and conduction through the AV node (negative dromotropy), which reduces heart rate and prolongs the PR interval."
   },
   {
@@ -1413,6 +1589,7 @@
     "label": "Heart anatomy",
     "category": "Gross Anatomy",
     "brick": "Atrial Fibrillation",
+    "order": 54,
     "explanation": "The yellow-highlighted vessels are the pulmonary veins draining into the left atrium. Ectopic foci at the pulmonary vein ostia are the most common trigger for atrial fibrillation, which is why pulmonary vein isolation is the cornerstone of AF ablation."
   },
   {
@@ -1421,6 +1598,7 @@
     "label": "Premature atrial contraction",
     "category": "Lab & Diagnostics",
     "brick": "Supraventricular Arrhythmias",
+    "order": 55,
     "explanation": "An early, abnormally shaped (ectopic) P wave that is still conducted through the AV node to produce a normal narrow QRS is the hallmark of a premature atrial contraction. A PVC would show a wide QRS with no preceding P wave."
   },
   {
@@ -1429,6 +1607,7 @@
     "label": "Atrial flutter",
     "category": "Lab & Diagnostics",
     "brick": "Supraventricular Arrhythmias",
+    "order": 55,
     "explanation": "In atrial flutter the atrial (flutter) rate is fixed; when the AV node conducts at changing ratios (e.g. alternating 2:1 and 4:1) the ventricular rhythm becomes irregular even though the atrial rate is constant."
   },
   {
@@ -1437,6 +1616,7 @@
     "label": "Multifocal atrial tachycardia",
     "category": "Lab & Diagnostics",
     "brick": "Supraventricular Arrhythmias",
+    "order": 55,
     "explanation": "Three or more distinct P-wave morphologies with an irregular rate over 100/min define multifocal atrial tachycardia, seen most often with pulmonary disease. Atrial fibrillation lacks discrete organized P waves."
   },
   {
@@ -1445,6 +1625,7 @@
     "label": "AVNRT",
     "category": "Lab & Diagnostics",
     "brick": "Supraventricular Arrhythmias",
+    "order": 55,
     "explanation": "AVNRT is a micro-reentrant circuit using fast and slow pathways within the AV node, producing a regular narrow-complex tachycardia with a retrograde P wave close to the QRS. It is the most common SVT in young people."
   },
   {
@@ -1453,6 +1634,7 @@
     "label": "Delta wave",
     "category": "Lab & Diagnostics",
     "brick": "Supraventricular Arrhythmias",
+    "order": 55,
     "explanation": "The slurred initial upstroke (delta wave) with a short PR interval reflects early ventricular depolarization arriving through an accessory pathway that bypasses the AV node, i.e. pre-excitation as in WPW."
   },
   {
@@ -1461,6 +1643,7 @@
     "label": "WPW pattern",
     "category": "Lab & Diagnostics",
     "brick": "Supraventricular Arrhythmias",
+    "order": 55,
     "explanation": "The short PR interval plus delta waves during sinus rhythm signify ventricular pre-excitation through an accessory (Kent) bundle, the defining ECG signature of Wolff-Parkinson-White syndrome."
   },
   {
@@ -1469,6 +1652,7 @@
     "label": "Cardiac conduction system",
     "category": "Physiology & Mechanisms",
     "brick": "Heart Blocks",
+    "order": 56,
     "explanation": "The AV node/junction is the sole normal electrical bridge between atria and ventricles. Complete failure produces AV dissociation, forcing a slow (20-40 bpm) ventricular escape pacemaker to take over, i.e. third-degree (complete) heart block."
   },
   {
@@ -1477,6 +1661,7 @@
     "label": "First-degree AV block",
     "category": "Lab & Diagnostics",
     "brick": "Heart Blocks",
+    "order": 56,
     "explanation": "First-degree AV block is defined by a fixed PR interval greater than 0.2 s with every atrial impulse conducted to the ventricles; no beats are dropped, so it is purely an ECG finding and usually asymptomatic."
   },
   {
@@ -1485,6 +1670,7 @@
     "label": "Mobitz type I",
     "category": "Lab & Diagnostics",
     "brick": "Heart Blocks",
+    "order": 56,
     "explanation": "Wenckebach (Mobitz I) shows progressive PR prolongation of consecutively conducted beats until one P wave fails to conduct and a QRS is dropped; the block is typically within the AV node and usually benign."
   },
   {
@@ -1493,6 +1679,7 @@
     "label": "Mobitz type II",
     "category": "Lab & Diagnostics",
     "brick": "Heart Blocks",
+    "order": 56,
     "explanation": "Mobitz type II shows a fixed PR interval in conducted beats followed by an abrupt non-conducted P wave. The block is usually below the AV node (His-Purkinje), is intrinsic/chronic, and frequently progresses to complete heart block, so it warrants a pacemaker."
   },
   {
@@ -1501,6 +1688,7 @@
     "label": "Complete heart block",
     "category": "Lab & Diagnostics",
     "brick": "Heart Blocks",
+    "order": 56,
     "explanation": "In complete heart block there is no conduction between atria and ventricles; P waves and QRS complexes are dissociated, each with its own rate (P faster than QRS), and a slow escape pacemaker drives the ventricles."
   },
   {
@@ -1509,6 +1697,7 @@
     "label": "2:1 AV block",
     "category": "Lab & Diagnostics",
     "brick": "Heart Blocks",
+    "order": 56,
     "explanation": "This is a fixed 2:1 AV block with a symptomatic, dangerously slow ventricular rate and no reversible cause (no drugs, electrolyte disturbance, or acute MI). A symptomatic, irreversible high-grade block is an indication for permanent pacing."
   },
   {
@@ -1517,6 +1706,7 @@
     "label": "Bigeminy",
     "category": "Lab & Diagnostics",
     "brick": "Ventricular Arrhythmias",
+    "order": 57,
     "explanation": "When every other beat is a premature ventricular contraction (a normal beat coupled to one PVC in a 1:1 repeating sequence), the pattern is termed ventricular bigeminy. Trigeminy would be every third beat, and a couplet is two consecutive PVCs."
   },
   {
@@ -1525,6 +1715,7 @@
     "label": "ICD",
     "category": "Lab & Diagnostics",
     "brick": "Ventricular Arrhythmias",
+    "order": 57,
     "explanation": "The abrupt in-strip termination of a life-threatening ventricular arrhythmia by an internally delivered shock is the signature of an implantable cardioverter-defibrillator sensing and treating the rhythm automatically."
   },
   {
@@ -1533,6 +1724,7 @@
     "label": "Ventricular tachycardia",
     "category": "Lab & Diagnostics",
     "brick": "Ventricular Arrhythmias",
+    "order": 57,
     "explanation": "A fast, regular series of wide QRS complexes that all share the same shape (monomorphic) with AV dissociation indicates monomorphic ventricular tachycardia, distinct from the varying complexes of polymorphic VT and the chaotic disorganization of VF."
   },
   {
@@ -1541,6 +1733,7 @@
     "label": "Ventricular fibrillation",
     "category": "Lab & Diagnostics",
     "brick": "Ventricular Arrhythmias",
+    "order": 57,
     "explanation": "The absence of any organized QRS complexes, replaced by disorganized fibrillatory waves reflecting uncoordinated quivering of the ventricular myocardium with no effective cardiac output, is diagnostic of ventricular fibrillation."
   },
   {
@@ -1549,6 +1742,7 @@
     "label": "ICD",
     "category": "Gross Anatomy",
     "brick": "Ventricular Arrhythmias",
+    "order": 57,
     "explanation": "A pulse generator with pacing/sensing leads plus dedicated shock coils able to detect and terminate ventricular tachyarrhythmias represents an implantable cardioverter-defibrillator, which combines pacing capability with high-energy defibrillation."
   },
   {
@@ -1557,6 +1751,7 @@
     "label": "Concentric hypertrophy",
     "category": "Pathology",
     "brick": "Physiology of Heart Failure",
+    "order": 58,
     "explanation": "A concentrically hypertrophied, stiff, small-cavity ventricle fills poorly during diastole while contractility is preserved, producing HFpEF (diastolic dysfunction)."
   },
   {
@@ -1565,6 +1760,7 @@
     "label": "Frank-Starling curve",
     "category": "Physiology & Mechanisms",
     "brick": "Physiology of Heart Failure",
+    "order": 58,
     "explanation": "On the descending/flattened limb of the Frank-Starling relationship, sarcomeres are already overstretched, so added volume yields little or no gain in stroke volume and can worsen output."
   },
   {
@@ -1573,6 +1769,7 @@
     "label": "Pitting edema",
     "category": "Lab & Diagnostics",
     "brick": "Edema",
+    "order": 59,
     "explanation": "The lasting indentation identifies pitting edema, which reflects excess mobile interstitial fluid and is classically linked to cardiac, hepatic, or renal disease. Myxedema is nonpitting, angioedema and cellulitis are localized and acute, and lymphatic obstruction tends to produce nonpitting lymphedema."
   },
   {
@@ -1581,6 +1778,7 @@
     "label": "Starling forces",
     "category": "Physiology & Mechanisms",
     "brick": "Edema",
+    "order": 59,
     "explanation": "A rise in capillary hydrostatic pressure pushes more fluid out of the capillary into the interstitium. Raising plasma oncotic pressure or albumin would pull fluid back in, reduced permeability limits leak, and higher interstitial hydrostatic pressure opposes filtration."
   },
   {
@@ -1589,6 +1787,7 @@
     "label": "Lymphatic system",
     "category": "Physiology & Mechanisms",
     "brick": "Edema",
+    "order": 59,
     "explanation": "The green channels are lymphatic vessels, which collect the roughly 20 L/day of interstitial fluid not reabsorbed by venules and return it to the veins. Impairment of this drainage causes lymphedema."
   },
   {
@@ -1597,6 +1796,7 @@
     "label": "Causes of edema",
     "category": "Pathology",
     "brick": "Edema",
+    "order": 59,
     "explanation": "The protein-loss branch reflects nephrotic-range urinary albumin loss, which lowers serum albumin and thus plasma oncotic pressure, promoting fluid movement into the interstitium."
   },
   {
@@ -1605,6 +1805,7 @@
     "label": "Edema mechanisms",
     "category": "Physiology & Mechanisms",
     "brick": "Edema",
+    "order": 59,
     "explanation": "Albumin is the principal determinant of plasma oncotic pressure. Loss (nephrotic syndrome), decreased synthesis (liver failure, malnutrition), or poor intake/absorption lowers albumin, reducing the inward oncotic force and allowing fluid to accumulate in the interstitium."
   },
   {
@@ -1613,6 +1814,7 @@
     "label": "Mitral stenosis",
     "category": "Physiology & Mechanisms",
     "brick": "Tricuspid Regurgitation and Tricuspid Stenosis",
+    "order": 5,
     "explanation": "In mitral stenosis the narrowed valve obstructs blood flow from the left atrium into the left ventricle during diastole, so left atrial pressure must remain elevated above LV pressure to drive filling. This transmitral gradient (LA > LV) is the hallmark of the lesion and is transmitted backward to raise pulmonary pressures, while LV volume stays normal or low."
   },
   {
@@ -1621,6 +1823,7 @@
     "label": "Left-sided heart failure",
     "category": "Physiology & Mechanisms",
     "brick": "Diagnosis of Heart Failure",
+    "order": 60,
     "explanation": "The depicted findings (orthopnea, paroxysmal nocturnal dyspnea, tachycardia, pulmonary congestion) are those of left-sided heart failure. When the left ventricle cannot eject or fill effectively, blood backs up into the left atrium and pulmonary veins, raising hydrostatic pressure and driving fluid into the alveoli, producing pulmonary congestion."
   },
   {
@@ -1629,6 +1832,7 @@
     "label": "LV hypertrophy",
     "category": "Lab & Diagnostics",
     "brick": "Diagnosis of Heart Failure",
+    "order": 60,
     "explanation": "The diagram shows a thickened left ventricle and the ECG shows tall QRS complexes. Increased LV mass generates a larger electrical signal, producing high-voltage QRS complexes in the lateral leads that meet voltage criteria for left ventricular hypertrophy, often with a lateral strain pattern."
   },
   {
@@ -1637,6 +1841,7 @@
     "label": "Pulmonary edema",
     "category": "Lab & Diagnostics",
     "brick": "Diagnosis of Heart Failure",
+    "order": 60,
     "explanation": "Left ventricular failure raises pulmonary venous and capillary pressure, forcing fluid into the interstitium and alveoli. On chest X-ray this appears as symmetric perihilar (bat-wing) opacities with vascular redistribution, characteristic of cardiogenic pulmonary edema rather than the focal consolidation of pneumonia."
   },
   {
@@ -1645,6 +1850,7 @@
     "label": "Digoxin",
     "category": "Physiology & Mechanisms",
     "brick": "Management of Chronic Heart Failure",
+    "order": 61,
     "explanation": "Digoxin inhibits the Na+/K+-ATPase, raising intracellular sodium. This reduces the driving force of the Na+/Ca2+ exchanger, so less calcium is extruded and intracellular calcium rises, increasing the force of contraction. Digoxin improves symptoms but does not improve mortality."
   },
   {
@@ -1653,6 +1859,7 @@
     "label": "HF treatment algorithm",
     "category": "Pharmacology",
     "brick": "Management of Chronic Heart Failure",
+    "order": 61,
     "explanation": "The numbered core agents (ACEi/ARB or ARNI plus beta-blocker, then SGLT2 inhibitor, then MRA) are shown driving the mortality and morbidity benefit. Loop diuretics are added at any step based on signs and symptoms of congestion; they are for symptom control and do not reduce mortality."
   },
   {
@@ -1661,6 +1868,7 @@
     "label": "Dilated heart",
     "category": "Pathology",
     "brick": "Dilated Cardiomyopathy",
+    "order": 62,
     "explanation": "The enlarged, spherical heart with dilated chambers and thin ventricular walls is the classic gross appearance of dilated cardiomyopathy."
   },
   {
@@ -1669,6 +1877,7 @@
     "label": "Eccentric hypertrophy",
     "category": "Physiology & Mechanisms",
     "brick": "Dilated Cardiomyopathy",
+    "order": 62,
     "explanation": "Eccentric hypertrophy adds sarcomeres end-to-end (in series), lengthening the myocytes and dilating the chambers; parallel (side-by-side) addition instead produces the wall thickening of concentric hypertrophy."
   },
   {
@@ -1677,6 +1886,7 @@
     "label": "Lymphocytic myocarditis",
     "category": "Histology & Cell Biology",
     "brick": "Dilated Cardiomyopathy",
+    "order": 62,
     "explanation": "A predominantly lymphocytic infiltrate is characteristic of viral myocarditis; bacterial infection tends to produce neutrophilic infiltrates and hypersensitivity reactions produce eosinophilic infiltrates."
   },
   {
@@ -1685,6 +1895,7 @@
     "label": "Aortic valve",
     "category": "Pathology",
     "brick": "Aortic Stenosis",
+    "order": 68,
     "explanation": "The series depicts degrees of aortic stenosis, from a normal tricuspid valve through aortic sclerosis to severe stenosis. The narrowing results from age-related and atherosclerotic-type fibrocalcific remodeling that thickens and calcifies the leaflets, progressively reducing the systolic orifice area."
   },
   {
@@ -1693,6 +1904,7 @@
     "label": "Aortic stenosis",
     "category": "Physiology & Mechanisms",
     "brick": "Aortic Stenosis",
+    "order": 68,
     "explanation": "In aortic stenosis the narrowed orifice forces the left ventricle to generate a much higher pressure than the aorta during ejection. The vertical gap between the LV and aortic pressure tracings during systole is the transvalvular (systolic) pressure gradient, which increases with stenosis severity."
   },
   {
@@ -1701,6 +1913,7 @@
     "label": "Cardiac skeleton",
     "category": "Gross Anatomy",
     "brick": "Aortic Regurgitation and Pulmonary Valve Disease",
+    "order": 69,
     "explanation": "The valves sit in the fibrous cardiac skeleton, which anchors the leaflets and myocardium and electrically insulates the atria from the ventricles, restricting the only conduction pathway to the AV node. This is why the tricuspid and mitral valves are shown closed during diastole in the same plane."
   },
   {
@@ -1709,6 +1922,7 @@
     "label": "Aortic dissection",
     "category": "Pathology",
     "brick": "Aortic Regurgitation and Pulmonary Valve Disease",
+    "order": 69,
     "explanation": "When a dissection extends into the ascending aorta it disrupts the normal geometry of the aortic root; the intimal flap distorts leaflet support so the cusps can no longer coapt, causing acute aortic regurgitation. This is distinct from endocarditis (vegetations) or rheumatic/calcific disease."
   },
   {
@@ -1717,6 +1931,7 @@
     "label": "Mitral valve",
     "category": "Gross Anatomy",
     "brick": "Mitral Stenosis",
+    "order": 6,
     "explanation": "The mitral (bicuspid) valve has two leaflets, an anterior and a posterior leaflet, anchored by chordae tendineae to the papillary muscles. This distinguishes it from the tricuspid, aortic, and pulmonic valves, which each have three cusps."
   },
   {
@@ -1725,6 +1940,7 @@
     "label": "Mitral valve",
     "category": "Gross Anatomy",
     "brick": "Mitral Regurgitation and Mitral Valve Prolapse",
+    "order": 70,
     "explanation": "The chordae tendineae anchor the leaflets to the papillary muscles and hold the valve closed during systole. Loss of this tethering lets a leaflet flail into the left atrium, causing acute mitral regurgitation."
   },
   {
@@ -1733,6 +1949,7 @@
     "label": "Myxomatous degeneration",
     "category": "Histology & Cell Biology",
     "brick": "Mitral Regurgitation and Mitral Valve Prolapse",
+    "order": 70,
     "explanation": "Accumulation of proteoglycan-rich myxoid material expanding the spongiosa and disrupting the fibrosa weakens the leaflet, producing the redundant, floppy valve of myxomatous degeneration and mitral valve prolapse."
   },
   {
@@ -1741,6 +1958,7 @@
     "label": "MVP click",
     "category": "Physiology & Mechanisms",
     "brick": "Mitral Regurgitation and Mitral Valve Prolapse",
+    "order": 70,
     "explanation": "Standing decreases preload and LV chamber size, so the redundant leaflet reaches its prolapse point earlier in systole, moving the click and murmur earlier. Squatting raises preload and delays them."
   },
   {
@@ -1749,6 +1967,7 @@
     "label": "Mitral annuloplasty",
     "category": "Gross Anatomy",
     "brick": "Mitral Regurgitation and Mitral Valve Prolapse",
+    "order": 70,
     "explanation": "Placing a ring to remodel and reduce the annular circumference (annuloplasty) restores coaptation and is a mainstay of mitral valve repair, preserving the native leaflets rather than replacing the valve."
   },
   {
@@ -1757,6 +1976,7 @@
     "label": "Tricuspid valve",
     "category": "Gross Anatomy",
     "brick": "Mitral Regurgitation and Mitral Valve Prolapse",
+    "order": 71,
     "explanation": "A three-leaflet (anterior, septal, inferior/posterior) atrioventricular valve seated between the right atrium and right ventricle, adjacent to the AV node artery and right coronary artery, is the tricuspid valve. The mitral valve has only two leaflets, and the aortic and pulmonary valves are semilunar valves with three cusps but no chordae/leaflet arrangement."
   },
   {
@@ -1765,6 +1985,7 @@
     "label": "Mitral valve",
     "category": "Gross Anatomy",
     "brick": "Mitral Regurgitation and Mitral Valve Prolapse",
+    "order": 71,
     "explanation": "A bileaflet atrioventricular valve with a scalloped three-lobed posterior leaflet tethered by chordae tendineae to papillary muscles is the mitral valve, which separates the left atrium from the left ventricle. The tricuspid valve has three leaflets, and the aortic and pulmonary valves are semilunar valves lacking chordae and papillary muscles."
   },
   {
@@ -1773,6 +1994,7 @@
     "label": "Ebstein anomaly",
     "category": "Pathology",
     "brick": "Mitral Regurgitation and Mitral Valve Prolapse",
+    "order": 71,
     "explanation": "The depicted anomaly is Ebstein anomaly, characterized by apical displacement of the tricuspid valve and an atrialized right ventricle. Maternal lithium exposure during pregnancy is the classic teratogenic association. Warfarin causes fetal warfarin syndrome, isotretinoin causes craniofacial/CNS defects, and valproate causes neural tube defects."
   },
   {
@@ -1781,6 +2003,7 @@
     "label": "Mitral valve",
     "category": "Gross Anatomy",
     "brick": "Mitral Stenosis",
+    "order": 72,
     "explanation": "The mitral valve opens during diastole to permit blood to flow from the left atrium into the left ventricle, and closes during systole to prevent backflow. The chordae tendineae and papillary muscles tether the leaflets to prevent prolapse."
   },
   {
@@ -1789,6 +2012,7 @@
     "label": "Balloon commissurotomy",
     "category": "Physiology & Mechanisms",
     "brick": "Mitral Stenosis",
+    "order": 72,
     "explanation": "Percutaneous mitral balloon commissurotomy advances a catheter via a transseptal puncture to the mitral valve, where balloon inflation splits the fused commissures and enlarges the stenotic orifice."
   },
   {
@@ -1797,6 +2021,7 @@
     "label": "Tricuspid vegetation",
     "category": "Lab & Diagnostics",
     "brick": "Infective Endocarditis",
+    "order": 73,
     "explanation": "Injection drug use delivers bacteria directly into the venous blood, and the tricuspid valve is the first valve these organisms encounter, making right-sided infective endocarditis common. The echo shows a vegetation on the tricuspid valve projecting into the right ventricle, adjacent to the right atrium."
   },
   {
@@ -1805,6 +2030,7 @@
     "label": "Cardioembolic stroke",
     "category": "Physiology & Mechanisms",
     "brick": "Infective Endocarditis",
+    "order": 73,
     "explanation": "In mitral stenosis and atrial fibrillation, loss of organized atrial contraction causes blood to stagnate in the dilated left atrium, promoting thrombus formation. A dislodged thrombus travels through the systemic arterial circulation and the internal carotid artery to occlude a cerebral vessel, producing a cardioembolic stroke."
   },
   {
@@ -1813,6 +2039,7 @@
     "label": "Pericardium",
     "category": "Gross Anatomy",
     "brick": "Acute Pericarditis",
+    "order": 75,
     "explanation": "The pericardial cavity, located between the parietal and visceral layers of the serous pericardium, normally contains a small amount of serous fluid that reduces friction as the heart contracts and relaxes."
   },
   {
@@ -1821,6 +2048,7 @@
     "label": "Normal pericardium",
     "category": "Histology & Cell Biology",
     "brick": "Acute Pericarditis",
+    "order": 75,
     "explanation": "The myocardium seen at the base of the section is made of cardiomyocytes, beneath the visceral pericardium and its overlying adipose tissue."
   },
   {
@@ -1829,6 +2057,7 @@
     "label": "Fibrinous pericarditis",
     "category": "Pathology",
     "brick": "Acute Pericarditis",
+    "order": 75,
     "explanation": "Fibrinous pericarditis, the most common type, deposits fibrin on the pericardial surfaces producing the classic 'bread and butter' appearance."
   },
   {
@@ -1837,6 +2066,7 @@
     "label": "Purulent pericarditis",
     "category": "Pathology",
     "brick": "Acute Pericarditis",
+    "order": 75,
     "explanation": "Purulent pericarditis, marked by pus within the pericardial cavity, is typically caused by bacterial infection (e.g., Staphylococcus aureus)."
   },
   {
@@ -1845,6 +2075,7 @@
     "label": "Purulent pericarditis",
     "category": "Histology & Cell Biology",
     "brick": "Acute Pericarditis",
+    "order": 75,
     "explanation": "A neutrophil-rich (purulent) infiltrate is the hallmark of bacterial pericarditis, distinguishing it from the lymphocyte-predominant serous inflammation of viral causes."
   },
   {
@@ -1853,6 +2084,7 @@
     "label": "Pericardiocentesis",
     "category": "Lab & Diagnostics",
     "brick": "Acute Pericarditis",
+    "order": 75,
     "explanation": "Pericardiocentesis drains pericardial fluid and is urgently indicated for cardiac tamponade or when purulent pericarditis is suspected."
   },
   {
@@ -1861,6 +2093,7 @@
     "label": "Shock types",
     "category": "Physiology & Mechanisms",
     "brick": "Shock",
+    "order": 77,
     "explanation": "The panels illustrate the initiating insult of the five shock types, but all forms of shock converge on failed delivery of oxygen to the tissues, producing cellular hypoxia regardless of the upstream cause."
   },
   {
@@ -1869,6 +2102,7 @@
     "label": "Hypovolemic shock",
     "category": "Physiology & Mechanisms",
     "brick": "Shock",
+    "order": 77,
     "explanation": "Loss of intravascular volume drops venous return (preload) and cardiac output, while compensatory sympathetic vasoconstriction raises systemic vascular resistance (afterload) to defend the mean arterial pressure."
   },
   {
@@ -1877,6 +2111,7 @@
     "label": "Neurogenic shock",
     "category": "Physiology & Mechanisms",
     "brick": "Shock",
+    "order": 77,
     "explanation": "Loss of sympathetic tone after cord or brain injury causes vasodilation (falling afterload and preload) without the compensatory tachycardia seen in other shocks, so cardiac output falls as well, producing hypotension with bradycardia."
   },
   {
@@ -1885,6 +2120,7 @@
     "label": "Cardiac tamponade",
     "category": "Physiology & Mechanisms",
     "brick": "Pericardial Effusion and Cardiac Tamponade",
+    "order": 79,
     "explanation": "The illustration shows pericardial fluid compressing the low-pressure right heart chambers, reducing the space available for diastolic filling. Decreased filling lowers stroke volume and cardiac output, which is the central hemodynamic mechanism of tamponade."
   },
   {
@@ -1893,6 +2129,7 @@
     "label": "RV diastolic collapse",
     "category": "Lab & Diagnostics",
     "brick": "Pericardial Effusion and Cardiac Tamponade",
+    "order": 79,
     "explanation": "As intrapericardial pressure rises it first overcomes the pressure in the lowest-pressure chamber. The right ventricle fills at low diastolic pressures, so its free wall collapses in diastole before the higher-pressure left-sided chambers, making this an early echocardiographic sign of tamponade."
   },
   {
@@ -1901,6 +2138,7 @@
     "label": "Pericardiocentesis",
     "category": "Lab & Diagnostics",
     "brick": "Pericardial Effusion and Cardiac Tamponade",
+    "order": 79,
     "explanation": "The image depicts pericardiocentesis: percutaneous needle aspiration of pericardial fluid via a subxiphoid approach angled toward the pericardial sac. It is the emergent treatment for cardiac tamponade, removing fluid to restore diastolic filling."
   },
   {
@@ -1909,6 +2147,7 @@
     "label": "Valve vegetations",
     "category": "Pathology",
     "brick": "Nonbacterial Thrombotic Endocarditis",
+    "order": 7,
     "explanation": "The sterile vegetations of SLE that form along leaflet margins (and can occur on both surfaces of the valve) are termed Libman-Sacks endocarditis, a form of NBTE."
   },
   {
@@ -1917,6 +2156,7 @@
     "label": "Purulent pericarditis",
     "category": "Pathology",
     "brick": "Nonbacterial Thrombotic Endocarditis",
+    "order": 7,
     "explanation": "Purulent (bacterial) pericarditis produces grossly purulent pericardial fluid and is most commonly caused by Staphylococcus aureus."
   },
   {
@@ -1925,6 +2165,7 @@
     "label": "Pericarditis ECG",
     "category": "Lab & Diagnostics",
     "brick": "Nonbacterial Thrombotic Endocarditis",
+    "order": 7,
     "explanation": "Diffuse ST-segment elevation with PR-segment depression across multiple leads (rather than a single vascular territory) is the classic ECG signature of acute pericarditis."
   },
   {
@@ -1933,6 +2174,7 @@
     "label": "Embryo",
     "category": "Gross Anatomy",
     "brick": "Management of Shock",
+    "order": 80,
     "explanation": "The paired arteries of the pharyngeal (aortic) arches remodel into the great arteries: the 3rd arch forms the common carotids, the 4th contributes to the arch of the aorta and proximal right subclavian, and the 6th forms the pulmonary arteries and the ductus arteriosus. The veins, coronary arteries, and pulmonary veins arise from separate developmental fields."
   },
   {
@@ -1941,6 +2183,7 @@
     "label": "Cardiac tamponade",
     "category": "Physiology & Mechanisms",
     "brick": "Pericardial Effusion and Cardiac Tamponade",
+    "order": 81,
     "explanation": "The right panel depicts cardiac tamponade: accumulated pericardial fluid raises intrapericardial pressure and compresses the right-sided chambers, reducing venous return and diastolic filling, which lowers stroke volume and cardiac output."
   },
   {
@@ -1949,6 +2192,7 @@
     "label": "Aortic arches",
     "category": "Gross Anatomy",
     "brick": "Pericardial Effusion and Cardiac Tamponade",
+    "order": 81,
     "explanation": "Of the six paired aortic arches, the left fourth arch persists as the arch of the aorta; the left sixth forms the ductus arteriosus, the third arches contribute to the carotid system, and the first, second, and fifth largely regress."
   },
   {
@@ -1957,6 +2201,7 @@
     "label": "Aortic arch branches",
     "category": "Gross Anatomy",
     "brick": "Pericardial Effusion and Cardiac Tamponade",
+    "order": 81,
     "explanation": "The right recurrent laryngeal nerve loops beneath and around the right subclavian artery before ascending to the larynx, whereas the left recurrent laryngeal nerve hooks around the arch of the aorta near the ligamentum arteriosum."
   },
   {
@@ -1965,6 +2210,7 @@
     "label": "Aortic coarctation",
     "category": "Gross Anatomy",
     "brick": "Coarctation of the Aorta",
+    "order": 82,
     "explanation": "Congenital preductal coarctation is thought to arise from abnormal development of the aortic arch during formation from the embryonic left fourth aortic arch, whereas postductal lesions relate to abnormal development of the descending aorta."
   },
   {
@@ -1973,6 +2219,7 @@
     "label": "Collateral circulation",
     "category": "Gross Anatomy",
     "brick": "Coarctation of the Aorta",
+    "order": 82,
     "explanation": "The enlarged intercostal arteries erode the inferior surface of the ribs as they carry collateral flow to the lower body, producing the classic rib-notching sign on chest radiograph in coarctation of the aorta."
   },
   {
@@ -1981,6 +2228,7 @@
     "label": "Aortic coarctation",
     "category": "Lab & Diagnostics",
     "brick": "Coarctation of the Aorta",
+    "order": 82,
     "explanation": "CT and MR imaging give a detailed 3D depiction of the narrowed segment and associated anatomic abnormalities of aortic coarctation, aiding planning of the appropriate intervention."
   },
   {
@@ -1989,6 +2237,7 @@
     "label": "Stent placement",
     "category": "Lab & Diagnostics",
     "brick": "Coarctation of the Aorta",
+    "order": 82,
     "explanation": "Transcatheter intervention with placement of a percutaneous stent across the narrowed segment is the preferred approach in older children and adults with coarctation of the aorta."
   },
   {
@@ -1997,6 +2246,7 @@
     "label": "Pulmonary stenosis",
     "category": "Pathology",
     "brick": "Coarctation of the Aorta",
+    "order": 82,
     "explanation": "Pulmonary valve stenosis obstructs right ventricular outflow; the chronic pressure overload produces right ventricular hypertrophy and can ultimately lead to right heart failure."
   },
   {
@@ -2005,6 +2255,7 @@
     "label": "Aortic stenosis",
     "category": "Pathology",
     "brick": "Coarctation of the Aorta",
+    "order": 82,
     "explanation": "Congenital aortic valve stenosis most often reflects a bicuspid aortic valve; having two cusps rather than three predisposes to fibrosis and calcification with worsening obstruction over time."
   },
   {
@@ -2013,6 +2264,7 @@
     "label": "Patent ductus arteriosus",
     "category": "Physiology & Mechanisms",
     "brick": "Patent Ductus Arteriosus",
+    "order": 83,
     "explanation": "The ductus arteriosus is kept patent in utero by low oxygen and high prostaglandin E1. After birth, lung expansion raises arterial oxygen tension, which triggers ductal smooth muscle constriction and functional closure within 15-30 hours."
   },
   {
@@ -2021,6 +2273,7 @@
     "label": "Differential cyanosis",
     "category": "Pathology",
     "brick": "Patent Ductus Arteriosus",
+    "order": 83,
     "explanation": "A right-to-left shunt through a PDA delivers deoxygenated blood to the descending aorta distal to the head/arm vessels, so the lower extremities read a lower saturation than the upper extremities, producing differential cyanosis."
   },
   {
@@ -2029,6 +2282,7 @@
     "label": "Echocardiography",
     "category": "Lab & Diagnostics",
     "brick": "Patent Ductus Arteriosus",
+    "order": 83,
     "explanation": "The mosaic color mapped onto the grayscale ultrasound is color Doppler, which encodes blood flow direction and velocity. It reveals the turbulent shunt jet of a patent ductus arteriosus between the descending aorta and pulmonary artery."
   },
   {
@@ -2037,6 +2291,7 @@
     "label": "Atrial septum formation",
     "category": "Histology & Cell Biology",
     "brick": "Patent Ductus Arteriosus",
+    "order": 83,
     "explanation": "The foramen ovale, bounded by septum primum and septum secundum, permits fetal right-to-left flow. When left atrial pressure rises after birth it seals, leaving the fossa ovalis as a depression in the adult atrial septum."
   },
   {
@@ -2045,6 +2300,7 @@
     "label": "Fixed splitting of S2",
     "category": "Physiology & Mechanisms",
     "brick": "Patent Ductus Arteriosus",
+    "order": 83,
     "explanation": "Fixed, wide splitting of S2 (A2-P2 gap unchanged by respiration) reflects the equalized, respiration-independent right heart filling caused by the ASD shunt, a key physical-exam clue to atrial septal defect."
   },
   {
@@ -2053,6 +2309,7 @@
     "label": "Digital clubbing",
     "category": "Pathology",
     "brick": "Tetralogy of Fallot",
+    "order": 84,
     "explanation": "The photograph shows digital clubbing, with loss of the normal nail-fold angle and bulbous fingertips. In cyanotic CHD such as tetralogy of Fallot, chronic hypoxemia promotes release of platelet-derived growth factor and VEGF, causing connective-tissue proliferation in the distal digits."
   },
   {
@@ -2061,6 +2318,7 @@
     "label": "Tetralogy of Fallot",
     "category": "Lab & Diagnostics",
     "brick": "Tetralogy of Fallot",
+    "order": 84,
     "explanation": "The study demonstrates an overriding aorta straddling a ventricular septal defect with right ventricular hypertrophy, the key anatomic features of tetralogy of Fallot; pulmonic/RVOT stenosis completes the tetrad."
   },
   {
@@ -2069,6 +2327,7 @@
     "label": "Valve vegetations",
     "category": "Pathology",
     "brick": "Nonbacterial Thrombotic Endocarditis",
+    "order": 8,
     "explanation": "The sterile platelet-fibrin vegetations shown form on the valve cusp margins in nonbacterial thrombotic endocarditis, which arises from hypercoagulable states such as advanced malignancy, SLE (Libman-Sacks), or antiphospholipid syndrome rather than from infection or inflammation."
   },
   {
@@ -2077,6 +2336,7 @@
     "label": "Pericardium",
     "category": "Gross Anatomy",
     "brick": "Acute Pericarditis",
+    "order": 9,
     "explanation": "The pericardial cavity between the visceral and parietal serous layers contains a small volume of serous fluid that lubricates the surfaces, allowing frictionless movement of the beating heart. Accumulation of excess fluid here produces a pericardial effusion."
   },
   {
@@ -2085,6 +2345,7 @@
     "label": "Fibrinous pericarditis",
     "category": "Pathology",
     "brick": "Acute Pericarditis",
+    "order": 9,
     "explanation": "The image shows acute fibrinous pericarditis, with fibrin deposited on the inflamed pericardium. The roughened, fibrin-coated surfaces sliding against each other create the classic scratchy pericardial friction rub heard on auscultation."
   },
   {
@@ -2093,6 +2354,7 @@
     "label": "Purulent pericarditis",
     "category": "Pathology",
     "brick": "Acute Pericarditis",
+    "order": 9,
     "explanation": "Purulent pericarditis, with frank pus in the pericardial space, is characteristically bacterial in origin. Viral, uremic, and autoimmune causes typically produce serous or fibrinous rather than frankly purulent exudates."
   },
   {
@@ -2101,6 +2363,7 @@
     "label": "Purulent pericarditis",
     "category": "Lab & Diagnostics",
     "brick": "Acute Pericarditis",
+    "order": 9,
     "explanation": "The section shows acute purulent (neutrophil-rich) pericarditis. Bacterial purulent effusions are exudative with abundant neutrophils and characteristically low glucose, reflecting consumption by bacteria and inflammatory cells."
   }
 ]
